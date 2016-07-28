@@ -37,8 +37,9 @@
             	mainPageUrl varchar(200) not null,
             	nextPageUrl varchar(200),	
             	state int default 0
-            )auto_increment = 1;
+            	)auto_increment = 1;
 		'''
+        
         
 2. 文章表(PaperInfo)
 
