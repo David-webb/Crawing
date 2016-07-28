@@ -29,6 +29,7 @@
 ### 数据库设计（mysql）
 
 1. 菜单表(MenuItems)
+
 	sql = '''
    	    create table MenuItems(
             	MID int,
