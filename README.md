@@ -30,7 +30,7 @@
 
 1. 菜单表(MenuItems)
 
-	sql = '''
+	sql1 = '''
    	    create table MenuItems(
             	MID int,
             	menuName varchar(100) primary key not null,
