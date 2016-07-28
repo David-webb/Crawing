@@ -28,8 +28,7 @@
 
 ### 数据库设计（mysql）
 
-1. 菜单表(MenuItems):
-
+1. 菜单表(MenuItems)
 	sql = '''
    	    create table MenuItems(
             	MID int,
@@ -38,9 +37,9 @@
             	nextPageUrl varchar(200),	
             	state int default 0
             )auto_increment = 1;
-        '''
+		'''
         
-2. 文章表(PaperInfo):
+2. 文章表(PaperInfo)
 
     	sql2 = '''
      	    create table PaperInfo(
@@ -50,9 +49,9 @@
             	EnglishText text,
             	originText  text,
             	purl  varchar(200),
-        	pType varchar(100),
+            	pType varchar(100),
             	CONSTRAINT FK_ID FOREIGN KEY (pType) REFERENCES MenuItems(menuName)
-	    );
-        '''
+            	);
+            	'''
 
 
