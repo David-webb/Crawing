@@ -28,6 +28,7 @@
 
 ### 数据库设计（mysql）
 1. 菜单表(MenuItems):
+
 	sql = '''
    	    create table MenuItems(
             	MID int,
@@ -37,7 +38,9 @@
             	state int default 0
             )auto_increment = 1;
         '''
-2. 文章表
+        
+2. 文章表(PaperInfo)
+
     	sql2 = '''
      	    create table PaperInfo(
             	PID varchar(100) primary key,
