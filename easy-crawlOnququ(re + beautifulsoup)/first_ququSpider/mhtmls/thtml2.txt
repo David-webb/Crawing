@@ -1,0 +1,10 @@
+摘要：莱斯大学的生物工程学家发现，即便是从同一人的手指抽取的血滴样本，也可能在血红蛋白、白细胞、血小板指标等方面得到不同的化验结果。医学实践中，人们倾向于尽可能少提取血样，但这可能意味着化验误差。
+As diagnostic tests rely on ever-tinier amounts of blood, some scientists are striking a note of caution. As it turns out, not all drops of blood are identical.
+Bioengineers at Rice University recently found that different drops from single fingerpricks on multiple subjects varied substantially on results for basic health measures like hemoglobin, white blood cell counts and platelet counts.
+Their study was published in The American Journal of Clinical Pathology.
+To get results as accurate as those achieved by the traditional method ― inserting a needle into an arm vein ― the investigators had to average the results of six to nine drops, said Rebecca Richards-Kortum, the director of Rice 360°: Institute for Global Health Technologies, which did the research.
+The investigators were careful not to squeeze or “milk” the subjects’ fingers, which has been known to invalidate results, said Meaghan Bond, the Rice bioengineering student who did the study with Dr. Richards-Kortum.
+Instead, the researchers used long lancets. But some subjects still had to be excluded because they stopped bleeding too quickly.
+In poor countries, clinics in remote areas are eager for tests that can be done rapidly and without electricity, especially when no one trained to pierce veins is available. Donors like the Bill & Melinda Gates Foundation support numerous “lab in a box” or “lab on a chip” efforts to detect diseases like sickle-cell anemia, H.I.V. and malaria.
+For patients in wealthy countries who fear needles or could benefit from point-of-care tests, companies like Theranos are miniaturizing collection vials and trying to do numerous tests on them ― not always successfully.
+“If you’re going to take a fingerprick stick to get your measures, you need to be aware that you’re sacrificing some accuracy,” Ms. Bond said.

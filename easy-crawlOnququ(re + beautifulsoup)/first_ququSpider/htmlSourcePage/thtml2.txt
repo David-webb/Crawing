@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>你的每一滴血可能透露不同生物信息（英文）_纽约时报中英文版_纽约时报中英文网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times，双语新闻"  />
+<meta name="description" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times，双语新闻"  />
+<link rel="stylesheet" type="text/css" href="/skin/qqenglish/style.css" />
+</head>
+
+<body  oncontextmenu='return false' ondragstart='return false' onselectstart ='return false' onselect='document.selection.empty()' oncopy='document.selection.empty()' onbeforecopy='return false' onmouseup='document.selection.empty()'>
+<div id="top">
+<div id="logo"><a href="/"><img src="/skin/qqenglish/logo1.gif" alt="纽约时报中英文网" width="691" height="63"></a></div> 
+<div id="menu"><ul>
+  <li><a href="/">纽约时报中文网</a></li>
+  <li><a href="/bn/bn">国际</a></li>
+  <li><a href="/bn/business">商业</a></li>
+  <li><a href="/bn/technology">科技</a></li>
+  <li><a href="/bn/education">教育</a></li>
+  <li><a href="/bn/culture">文化</a></li>
+  <li><a href="/bn/style">风尚</a></li>
+  <li><a href="/bn/health">健康</a></li>
+  <li><a href="/bn/science">科学</a></li>
+  <li><a href="/bn/travel">旅游</a></li>
+  <li><a href="/bn/opinion">观点</a></li>
+</ul></div>
+</div>
+
+<div id="position">您现在的位置：&nbsp;<a class='LinkPath' href='http://www.qqenglish.com'>纽约时报中英文网</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/Index.htm'>纽约时报中英文版</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/health/Index.htm'>健康</a>&nbsp;>>&nbsp;正文
+</div>
+
+<div id="Container">
+<div id="content_left">
+<div id="leftMainContainer">
+
+<div>
+<div id="leftN_title" style="word-break:break-all">
+<H2>你的每一滴血可能透露不同生物信息（英文）</H2>
+<div class="times">更新时间:2016-2-24 18:46:34&nbsp;来源:<A href="http://cn.nytimes.com/" target=_blank><FONT color=#666666>纽约时报中文网</FONT></A> 作者:佚名 
+</div>
+</div>
+
+<div class="content">
+<p></p>
+<div class="bd2"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<P>摘要：莱斯大学的生物工程学家发现，即便是从同一人的手指抽取的血滴样本，也可能在血红蛋白、白细胞、血小板指标等方面得到不同的化验结果。医学实践中，人们倾向于尽可能少提取血样，但这可能意味着化验误差。</P>
+<P>As diagnostic tests rely on ever-tinier amounts of blood, some scientists are striking a note of caution. As it turns out, not all drops of blood are identical.</P>
+<P>Bioengineers at Rice University recently found that different drops from single fingerpricks on multiple subjects varied substantially on results for basic health measures like hemoglobin, white blood cell counts and platelet counts.</P>
+<P>Their study was published in The American Journal of Clinical Pathology.</P>
+<P>To get results as accurate as those achieved by the traditional method ― inserting a needle into an arm vein ― the investigators had to average the results of six to nine drops, said Rebecca Richards-Kortum, the director of Rice 360°: Institute for Global Health Technologies, which did the research.</P>
+<P>The investigators were careful not to squeeze or “milk” the subjects’ fingers, which has been known to invalidate results, said Meaghan Bond, the Rice bioengineering student who did the study with Dr. Richards-Kortum.</P>
+<P>Instead, the researchers used long lancets. But some subjects still had to be excluded because they stopped bleeding too quickly.</P>
+<P>In poor countries, clinics in remote areas are eager for tests that can be done rapidly and without electricity, especially when no one trained to pierce veins is available. Donors like the Bill &amp; Melinda Gates Foundation support numerous “lab in a box” or “lab on a chip” efforts to detect diseases like sickle-cell anemia, H.I.V. and malaria.</P>
+<P>For patients in wealthy countries who fear needles or could benefit from point-of-care tests, companies like Theranos are miniaturizing collection vials and trying to do numerous tests on them ― not always successfully.</P>
+<P>“If you’re going to take a fingerprick stick to get your measures, you need to be aware that you’re sacrificing some accuracy,” Ms. Bond said.</P>
+</div>
+<P><FONT color=#666666>“全文请访问<A title="" href="http://cn.nytimes.com/" target=_blank><FONT color=#666666>纽约时报中文网</FONT></A>，本文发表于纽约时报中文网（http://cn.nytimes.com），版权归纽约时报公司所有。任何单位及个人未经许可，不得擅自转载或翻译。订阅纽约时报中文网新闻电邮：http://nytcn.me/subscription/”</FONT></P>
+<div class="pagebreak">
+</div>
+
+ </div>
+  </div>
+  
+</div>
+
+<div id="content_right">
+<div class=right_title>相关文章列表
+</div>
+<div id="list">
+<ul><a class='LinkArticleCorrelative' href='/bn/17015.htm' title='文章标题：吃有机肉、喝有机奶的人也许真的更健康
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-24 8:50:37' target="_self">吃有机肉、喝有机奶的人也许真的更健康</a><br><a class='LinkArticleCorrelative' href='/bn/16938.htm' title='文章标题：兹卡病毒或可增加精神疾病风险
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-20 8:39:16' target="_self">兹卡病毒或可增加精神疾病风险</a><br><a class='LinkArticleCorrelative' href='/bn/16882.htm' title='文章标题：别担心，给猫节食不会让你“失宠”（英文）
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-17 21:48:37' target="_self">别担心，给猫节食不会让你“失宠”（英文）</a><br><a class='LinkArticleCorrelative' href='/bn/16866.htm' title='文章标题：孕期感染兹卡是否应该堕胎？
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-17 8:47:47' target="_self">孕期感染兹卡是否应该堕胎？</a><br><a class='LinkArticleCorrelative' href='/bn/16844.htm' title='文章标题：运动过度真的会损害心脏健康？
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-16 10:33:11' target="_self">运动过度真的会损害心脏健康？</a><br><a class='LinkArticleCorrelative' href='/bn/16808.htm' title='文章标题：滑手机头晕，当心数码动晕症！
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-14 9:57:13' target="_self">滑手机头晕，当心数码动晕症！</a><br><a class='LinkArticleCorrelative' href='/bn/16788.htm' title='文章标题：运动前怎样拉伸最有益
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-9 10:16:28' target="_self">运动前怎样拉伸最有益</a><br><a class='LinkArticleCorrelative' href='/bn/16786.htm' title='文章标题：美食当前，单身女孩更能抗拒诱惑？
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-8 10:44:53' target="_self">美食当前，单身女孩更能抗拒诱惑？</a><br><a class='LinkArticleCorrelative' href='/bn/16750.htm' title='文章标题：过年了，为酒说几句好话
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-5 10:47:11' target="_self">过年了，为酒说几句好话</a><br><a class='LinkArticleCorrelative' href='/bn/16719.htm' title='文章标题：排卵期的女性更容易抢走你的男朋友？
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-4 10:55:02' target="_self">排卵期的女性更容易抢走你的男朋友？</a><br></ul>
+</div>
+</div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+<div class="bd1"><script type="text/javascript">
+/*自定义标签云，创建于2014-2-10*/
+var cpro_id = "u1466768";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+
+</div>
+<div class="clearing"></div>
+<div id="footer">
+</div>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=1&amp;pos=right&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="count"><script src="http://s4.cnzz.com/stat.php?id=5427419&web_id=5427419&show=pic1" language="JavaScript"></script></div>
+
+</body></html>

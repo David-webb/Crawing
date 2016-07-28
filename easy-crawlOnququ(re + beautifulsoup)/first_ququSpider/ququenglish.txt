@@ -1,0 +1,131 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>纽约时报中文网,纽约时报英文版,华尔街日报中文网,华尔街日报英文版,中英对照,蛐蛐英语网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="纽约时报中文网,纽约时报英文版,华尔街日报中文网,华尔街日报英文版,中英对照,蛐蛐英语网"  />
+<meta name="description" content="纽约时报中文网,纽约时报英文版,华尔街日报中文网,华尔街日报英文版,中英对照,蛐蛐英语网"  />
+<link rel="stylesheet" type="text/css" href="/skin/qqenglish/style.css" />
+<link rel="shortcut icon" href="/images/favorite.ico" type="image/x-icon" />
+</head>
+
+<body>
+<div id="top">
+<div>
+<div id="logo"><a href="/"><img src="/skin/qqenglish/logo1.gif" alt="纽约时报中英文网" width="691" height="63"></a></div>
+</div>
+
+<div id="menu"><ul>
+  <li><a href="/">纽约时报中文网</a></li>
+  <li><a href="/bn/bn">国际</a></li>
+  <li><a href="/bn/business">商业</a></li>
+  <li><a href="/bn/technology">科技</a></li>
+  <li><a href="/bn/education">教育</a></li>
+  <li><a href="/bn/culture">文化</a></li>
+  <li><a href="/bn/style">风尚</a></li>
+  <li><a href="/bn/health">健康</a></li>
+  <li><a href="/bn/science">科学</a></li>
+  <li><a href="/bn/travel">旅游</a></li>  
+  <li><a href="/bn/opinion">观点</a></li>
+  <li><a href="/wsj">华尔街日报中文网</a></li>
+
+</ul></div>
+</div>
+
+<div id="Container">
+<div id="leftMainContainer">
+<div id="leftNav">
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*自定义标签云，创建于2014-2-8*/
+var cpro_id = "u1466103";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+</div><div id="rightContainer">
+<div class=news_title><A href="/bn">纽约时报中英文对照 New York Times</A>
+</div>
+<div id="list">
+<div class="bd"><script type="text/javascript">
+/*自定义标签云，创建于2014-2-10*/
+var cpro_id = "u1466762";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<ul>
+  <table width="100%" cellpadding="0" cellspacing="0"><tr><td class="">[<a class="" href="/bn/business/Index.htm">商业</a>]<a class="" href="/bn/17076.htm" title="G20上海峰会能给世界经济开出什么药方" target="_blank">G20上海峰会能给世界经济开出什么药方</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/bn/technology/Index.htm">科技</a>]<a class="" href="/bn/17075.htm" title="苹果或研发新安全手段抵抗政府“侵入”" target="_blank">苹果或研发新安全手段抵抗政府“侵入”</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17074.htm" title="中国朝鲜政策转向，同意对平壤加强制裁" target="_blank">中国朝鲜政策转向，同意对平壤加强制裁</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/17064.htm" title="伊朗提高追杀英国小说家拉什迪的赏金" target="_blank">伊朗提高追杀英国小说家拉什迪的赏金</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/17063.htm" title="一部影响美国网络安全政策的电影" target="_blank">一部影响美国网络安全政策的电影</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/bn/travel/Index.htm">旅游</a>]<a class="" href="/bn/17062.htm" title="在印尼古都日惹，感受爪哇文化的创新与冒险" target="_blank">在印尼古都日惹，感受爪哇文化的创新与冒险</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17061.htm" title="彼得・梁之罪：一场关于种族、特权与公正的对决" target="_blank">彼得・梁之罪：一场关于种族、特权与公正的对决</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/bn/business/Index.htm">商业</a>]<a class="" href="/bn/17060.htm" title="硅谷大亨买海滩，公众使用需付钱？" target="_blank">硅谷大亨买海滩，公众使用需付钱？</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17059.htm" title="美国百岁老人被室友杀害，引发养老院仲裁纠纷" target="_blank">美国百岁老人被室友杀害，引发养老院仲裁纠纷</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/17051.htm" title="权力之巅的玛格丽特・撒切尔" target="_blank">权力之巅的玛格丽特・撒切尔</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/technology/Index.htm">科技</a>]<a class="" href="/bn/17050.htm" title="美国政府要求苹果解锁更多iPhone" target="_blank">美国政府要求苹果解锁更多iPhone</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/health/Index.htm">健康</a>]<a class="" href="/bn/17049.htm" title="美国新增14个疑似性传播兹卡病例" target="_blank">美国新增14个疑似性传播兹卡病例</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/opinion/Index.htm">观点</a>]<a class="" href="/bn/17044.htm" title="凭什么女孩就该远离危险？勇气并非男生专利" target="_blank">凭什么女孩就该远离危险？勇气并非男生专利</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/health/Index.htm">健康</a>]<a class="" href="/bn/17043.htm" title="买酒多交税可以有效阻止淋病传染？" target="_blank">买酒多交税可以有效阻止淋病传染？</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17042.htm" title="被抢走的北京导盲犬失而复得" target="_blank">被抢走的北京导盲犬失而复得</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17041.htm" title="革命30年，菲律宾人怀念独裁者的“黄金时代”" target="_blank">革命30年，菲律宾人怀念独裁者的“黄金时代”</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/business/Index.htm">商业</a>]<a class="" href="/bn/17040.htm" title="中国公司赴美投资收购为何屡次碰壁" target="_blank">中国公司赴美投资收购为何屡次碰壁</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/bn/science/Index.htm">科学</a>]<a class="" href="/bn/17025.htm" title="海平面上升速度破2800年以来纪录" target="_blank">海平面上升速度破2800年以来纪录</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/health/Index.htm">健康</a>]<a class="" href="/bn/17024.htm" title="你的每一滴血可能透露不同生物信息（英文）" target="_blank">你的每一滴血可能透露不同生物信息（英文）</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/technology/Index.htm">科技</a>]<a class="" href="/bn/17023.htm" title="移动网络技术新竞赛：向5G时代进军" target="_blank">移动网络技术新竞赛：向5G时代进军</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17022.htm" title="导盲犬被抢，中国残障公民生活保障引关注" target="_blank">导盲犬被抢，中国残障公民生活保障引关注</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17021.htm" title="特朗普在内华达州赢得三连胜" target="_blank">特朗普在内华达州赢得三连胜</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/travel/Index.htm">旅游</a>]<a class="" href="/bn/17016.htm" title="礼拜几买机票最便宜？" target="_blank">礼拜几买机票最便宜？</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/health/Index.htm">健康</a>]<a class="" href="/bn/17015.htm" title="吃有机肉、喝有机奶的人也许真的更健康" target="_blank">吃有机肉、喝有机奶的人也许真的更健康</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/17014.htm" title="黑人演什么才能获得奥斯卡青睐？" target="_blank">黑人演什么才能获得奥斯卡青睐？</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/17000.htm" title="北京提高雾霾红色预警发布标准" target="_blank">北京提高雾霾红色预警发布标准</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/16999.htm" title="天价的“28”，香港吉利数字车牌千万港元拍出" target="_blank">天价的“28”，香港吉利数字车牌千万港元拍出</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/16998.htm" title="中国颁布新规叫停“奇奇怪怪的建筑”" target="_blank">中国颁布新规叫停“奇奇怪怪的建筑”</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/travel/Index.htm">旅游</a>]<a class="" href="/bn/16997.htm" title="高速路上，我们的长途巴士被火焰吞没（英文）" target="_blank">高速路上，我们的长途巴士被火焰吞没（英文）</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/bn/Index.htm">国际</a>]<a class="" href="/bn/16996.htm" title="特朗普“猪血”言论引争议，穆斯林要求当面对质" target="_blank">特朗普“猪血”言论引争议，穆斯林要求当面对质</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/style/Index.htm">风尚</a>]<a class="" href="/bn/16987.htm" title="秀场前排，“小七”抢了贝嫂风头" target="_blank">秀场前排，“小七”抢了贝嫂风头</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/16986.htm" title="《山河故人》：贾樟柯镜头中那个变迁的中国" target="_blank">《山河故人》：贾樟柯镜头中那个变迁的中国</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/technology/Index.htm">科技</a>]<a class="" href="/bn/16985.htm" title="苹果与FBI的对峙：iPhone能被破解吗？" target="_blank">苹果与FBI的对峙：iPhone能被破解吗？</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/science/Index.htm">科学</a>]<a class="" href="/bn/16984.htm" title="兹卡病毒大流行拉响全球变暖的警报" target="_blank">兹卡病毒大流行拉响全球变暖的警报</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/technology/Index.htm">科技</a>]<a class="" href="/bn/16983.htm" title="苹果死守隐私底线" target="_blank">苹果死守隐私底线</a></td><td align="right" class="" width="40"><font color="red">02-23</font></td></tr><tr><td class="">[<a class="" href="/bn/opinion/Index.htm">观点</a>]<a class="" href="/bn/16969.htm" title="不要忘记达尔富尔大屠杀" target="_blank">不要忘记达尔富尔大屠杀</a></td><td align="right" class="" width="40"><font color="red">02-22</font></td></tr><tr><td class="">[<a class="" href="/bn/technology/Index.htm">科技</a>]<a class="" href="/bn/16968.htm" title="赶走恶俗网络广告的免费插件（英文）" target="_blank">赶走恶俗网络广告的免费插件（英文）</a></td><td align="right" class="" width="40"><font color="red">02-22</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/16961.htm" title="《玫瑰之名》作者、畅销学人艾柯去世" target="_blank">《玫瑰之名》作者、畅销学人艾柯去世</a></td><td align="right" class="" width="40"><font color="red">02-22</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/16960.htm" title="《杀死一只知更鸟》作者哈珀・李去世" target="_blank">《杀死一只知更鸟》作者哈珀・李去世</a></td><td align="right" class="" width="40"><font color="red">02-22</font></td></tr><tr><td class="">[<a class="" href="/bn/culture/Index.htm">文化</a>]<a class="" href="/bn/16959.htm" title="瑙莱坞：讲述非洲故事的尼日利亚电影梦工厂" target="_blank">瑙莱坞：讲述非洲故事的尼日利亚电影梦工厂</a></td><td align="right" class="" width="40"><font color="red">02-22</font></td></tr><tr></tr></table>
+</ul>
+<div class=news_title><A href="/wsj">华尔街日报中英对照 Wall Street Journal</A>
+</div>
+<ul>
+  <table width="100%" cellpadding="0" cellspacing="0"><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17083.htm" title="1月份中国70个大中城市新建住宅均价继续上升" target="_blank">1月份中国70个大中城市新建住宅均价继续上升</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17082.htm" title="巴菲特麾下伯克希尔哈撒韦的油价敞口有多大？" target="_blank">巴菲特麾下伯克希尔哈撒韦的油价敞口有多大？</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17081.htm" title="2016年科技行业并购交易活动料将放缓" target="_blank">2016年科技行业并购交易活动料将放缓</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17080.htm" title="外资不会迅速涌入中国债券市场" target="_blank">外资不会迅速涌入中国债券市场</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17079.htm" title="夏普：与富士康的收购谈判仍在进行" target="_blank">夏普：与富士康的收购谈判仍在进行</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17078.htm" title="OECD就经济改革步伐放缓发出警告" target="_blank">OECD就经济改革步伐放缓发出警告</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17077.htm" title="周小川：人民币没有持续贬值基础" target="_blank">周小川：人民币没有持续贬值基础</a></td><td align="right" class="" width="40"><font color="red">02-27</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17073.htm" title="万达集团就投资法国“欧洲城”项目进行深入谈判" target="_blank">万达集团就投资法国“欧洲城”项目进行深入谈判</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17072.htm" title="美国科技巨头将联合声援苹果公司" target="_blank">美国科技巨头将联合声援苹果公司</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17071.htm" title="苹果提交动议反抗破解iPhone的命令" target="_blank">苹果提交动议反抗破解iPhone的命令</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/news/Index.htm">时事</a>]<a class="" href="/wsj/17070.htm" title="联合国接近通过对朝新制裁协议" target="_blank">联合国接近通过对朝新制裁协议</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17069.htm" title="市场动荡增添中国金融监管改革迫切性" target="_blank">市场动荡增添中国金融监管改革迫切性</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17068.htm" title="富士康收购夏普的五个理由" target="_blank">富士康收购夏普的五个理由</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17067.htm" title="富士康暂缓夏普收购交易" target="_blank">富士康暂缓夏普收购交易</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17066.htm" title="周小川在G20论坛上表示人民币没有持续贬值基础" target="_blank">周小川在G20论坛上表示人民币没有持续贬值基础</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17065.htm" title="G20会议主旋律：加大支出和经济改革" target="_blank">G20会议主旋律：加大支出和经济改革</a></td><td align="right" class="" width="40"><font color="red">02-26</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17058.htm" title="虽面临反垄断和税务调查&nbsp;谷歌仍努力在欧洲赢得盟友" target="_blank">虽面临反垄断和税务调查&nbsp;谷歌仍努力在欧洲赢得盟友</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17057.htm" title="伊斯兰国黑客矛头指向Facebook和Twitter首席执行长" target="_blank">伊斯兰国黑客矛头指向Facebook和Twitter首席执行长</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17056.htm" title="美国政府警告银行勿碰俄罗斯发债交易" target="_blank">美国政府警告银行勿碰俄罗斯发债交易</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17055.htm" title="小米发布新旗舰机&nbsp;欲开拓全球市场" target="_blank">小米发布新旗舰机&nbsp;欲开拓全球市场</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17054.htm" title="富士康将支付4,890亿日圆收购夏普70%股权" target="_blank">富士康将支付4,890亿日圆收购夏普70%股权</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17053.htm" title="夏普接受富士康62.4亿美元收购提议" target="_blank">夏普接受富士康62.4亿美元收购提议</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17052.htm" title="中国进一步向境外机构投资者开放银行间债券市场" target="_blank">中国进一步向境外机构投资者开放银行间债券市场</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17048.htm" title="惠普公司利润下滑&nbsp;打印机、个人电脑业务疲软" target="_blank">惠普公司利润下滑&nbsp;打印机、个人电脑业务疲软</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17047.htm" title="IMF呼吁G20国家扩大政府支出" target="_blank">IMF呼吁G20国家扩大政府支出</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17046.htm" title="中国滴滴快的计划融资约10亿美元" target="_blank">中国滴滴快的计划融资约10亿美元</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17045.htm" title="万达集团计划在国内为万达影业筹资15亿美元" target="_blank">万达集团计划在国内为万达影业筹资15亿美元</a></td><td align="right" class="" width="40"><font color="red">02-25</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17039.htm" title="美联储副主席：评估市场剧烈波动的影响为时尚早" target="_blank">美联储副主席：评估市场剧烈波动的影响为时尚早</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17038.htm" title="更多国家将加入BEPS&nbsp;携手封堵企业税收漏洞" target="_blank">更多国家将加入BEPS&nbsp;携手封堵企业税收漏洞</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/news/Index.htm">时事</a>]<a class="" href="/wsj/17037.htm" title="联邦法官批准监督机构就希拉里“邮件门”搜集证据" target="_blank">联邦法官批准监督机构就希拉里“邮件门”搜集证据</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17036.htm" title="惠普分拆后或仍难摆脱增长老问题" target="_blank">惠普分拆后或仍难摆脱增长老问题</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17035.htm" title="LG电子推出新款旗舰智能手机G5" target="_blank">LG电子推出新款旗舰智能手机G5</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17034.htm" title="与1MDB关系密切的高盛银行家莱斯纳离职" target="_blank">与1MDB关系密切的高盛银行家莱斯纳离职</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17033.htm" title="初创公司Zenefits的困扰──派对文化滋生不雅行为" target="_blank">初创公司Zenefits的困扰──派对文化滋生不雅行为</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17032.htm" title="美国银行类股最怕的是低利率而非油价" target="_blank">美国银行类股最怕的是低利率而非油价</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/technology/Index.htm">科技</a>]<a class="" href="/wsj/17031.htm" title="苹果公司如何演变为隐私斗士" target="_blank">苹果公司如何演变为隐私斗士</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/news/Index.htm">时事</a>]<a class="" href="/wsj/17030.htm" title="特朗普在内华达州共和党党团会议中获胜" target="_blank">特朗普在内华达州共和党党团会议中获胜</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17029.htm" title="“空白支票”公司Silver&nbsp;Run缔造美国今年最大IPO" target="_blank">“空白支票”公司Silver&nbsp;Run缔造美国今年最大IPO</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17028.htm" title="中国寻求出口先进核反应堆" target="_blank">中国寻求出口先进核反应堆</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr><td class="">[<a class="" href="/wsj/wsj/Index.htm">经济</a>]<a class="" href="/wsj/17027.htm" title="宜家之困──印度掘金不容易" target="_blank">宜家之困──印度掘金不容易</a></td><td align="right" class="" width="40"><font color="red">02-24</font></td></tr><tr></tr></table>
+</ul>
+<div id="Search"><FORM name=search action=search.asp method=post target=_blank>
+<div> 
+  <Input id=Keyword maxLength=50 value="" name=Keyword> 
+  <input class="searchtxt" id=Field type=hidden value=Title name=Field>
+  <input type="submit" value="搜索" name="submit" />
+</div>
+</FORM></div>
+
+
+</div>
+</div><div class="clearing"></div></div>
+<div class="clearing"></div>
+</div>
+
+<div id="friendlink">
+友情链接：<a href="http://www.1shehua.com" target=_blank>一奢网</a>
+</div>
+
+<div id="footer">
+<div id="copyright">本站所有文章仅为学习英语之用</div>
+<div id="mii">　　<a href=http://www.miibeian.gov.cn target=_blank>辽ICP备07502069号-6</a></div></div>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=1&amp;pos=right&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+
+
+<div id="count2"><script src="http://s4.cnzz.com/stat.php?id=5427419&web_id=5427419&show=pic1" language="JavaScript"></script></div>
+
+</body></html>

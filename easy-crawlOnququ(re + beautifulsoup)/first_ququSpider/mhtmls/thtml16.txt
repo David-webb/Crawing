@@ -1,0 +1,22 @@
+WASHINGTON ― As a legal matter, the showdown between the Obama administration and Apple touched off Tuesday by the ruling of a federal magistrate judge in California turns on an 18th century law. More practically, though, it boils down to this question: Should you be able to lock your phone so securely that even the F.B.I. cannot open it?
+华盛顿――加利福尼亚州一名联邦治安法官的裁决，在周二触发了奥巴马政府和苹果公司(Apple)之间的一场对峙。就法律问题而言，这场对峙关涉18世纪的一项法律。不过在更具体的操作层面，它可以归结为这样一个问题：你对手机的锁定和加密，可以安全到连FBI也打不开吗？
+The Obama administration and police officers around the country say no, and their precedent is the past. Homes and cars do not have unbreakable locks. You cannot buy an uncrackable safe. And terrorists and child molesters should not be able to buy a hand-held computer that keeps its secrets forever.
+奥巴马政府和全国各地的警官说不可以，他们引为依据的先例就是“过去”。房屋和汽车都没有打不开的锁。砸不开的保险柜也是买不到的。因此，不应该让恐怖分子和娈童犯买到可以永远保存其秘密的掌上电脑。
+Apple, backed by technologists and civil libertarians, says yes. People live their lives electronically; their phones are a record of loves and fantasies, illnesses and losses. Apple built its recent iPhones to keep that data private and says nothing less than the future of privacy is at stake in this fight.
+但苹果的观点是可以，这种立场得到了科技业者和捍卫民权的自由意志论者的支持。人们过着数字化的生活，他们的手机记录了爱和幻想，患病的痛苦和失去的遗憾。苹果制造最近的几款iPhone时，特意确保了这些数据的私密性，而且明确表示这场纠纷关系着隐私权的未来。
+The Justice Department’s success in obtaining a court order demanding that Apple help write software to disable those defenses was a significant victory for the Obama administration. It relied on the All Writs Act, a law that can trace its origins to the first Congress in 1789. In short, it says courts can require that people do things to comply with their orders.
+司法部成功取得了一家法院的命令，要求苹果帮助编写可以破解那些保护功能的软件，这是奥巴马政府的重大胜利。它依赖的是《所有令状法案》(All Writs Act)，这项法律的起源可以追溯到1789年的第一届国会。简而言之，这条法律说的是，法院可以要求民众按其命令做事。
+For months, the Justice Department and Apple have been trading heated rhetoric and lurching toward this very confrontation, only to back away. By the end of last year, it seemed that Apple and other technology companies had won the public relations battle.
+几个月里，司法部和苹果公司一直在用激烈的言辞相互指责，并在摇摆中逐渐走向今天这样的对抗，不过后来又各自退后。到去年年底，苹果和其他科技企业似乎赢得了公关大战。
+The attacks in San Bernardino, Calif., in December, however, changed the government’s calculation. Syed Rizwan Farook, one of the two people suspected of killing 14 people, left behind an iPhone 5c ― a locked one. The F.B.I. has not been able to get access to any data on it.
+然而去年12月加州圣贝纳迪诺的袭击事件改变了政府的考量。涉嫌杀害14人的两人中的一名，赛义德・里兹万・法鲁克(Syed Rizwan Farook)留下了一部iPhone 5c――但已被锁定了。FBI还没能取得里面的任何数据。
+For the administration, it was perhaps the perfect test case, one that put Apple on the side of keeping secrets for a terrorist.
+对政府而言，这可能是一个完美的案例，让苹果公司处在了替恐怖分子保守秘密的位置。
+Mr. Farook’s phone is protected by a password that Apple says it does not keep. It is encrypted with an algorithm the company says it cannot break. The F.B.I. wants to write a computer program to send the phone an unlimited combination of passwords until it finds one that works.
+法鲁克的手机受到了密码保护，苹果公司表示该公司并不持有该密码。该公司还表示，无法破解对手机进行加密的算法。FBI则希望编写电脑程序，可以向手机提交无限的密码组合，直到找到正确的密码。
+But Apple built its phones to protect against that tactic. Each wrong guess causes a short delay, which would significantly slow the F.B.I.’s effort. After too many incorrect guesses, the phone will automatically erase its memory.
+但是苹果在生产这款手机时，就防范了这种策略。每猜错一次，都会造成一小段延迟，这将会显著地放慢FBI破解的速度。如果猜错的次数过多，手机就会自动擦除存储的内容。
+There is little middle ground between the positions of the Justice Department and Apple, and Timothy D. Cook, the company’s chief executive, did not back down. He issued a sharply worded statement on Wednesday, saying he planned to fight the order. He said the Obama administration was not only creating a dangerous precedent but was demanding the creation of a dangerous tool ― a skeleton key that could be used by hackers and totalitarian governments.
+司法部和苹果双方的立场之间没有多少让步的余地，苹果公司CEO蒂莫西・D・库克(Timothy D. Cook)没有让步。他在周三发表了措辞严厉的声明，表示他计划针对这项命令展开斗争。他说，奥巴马政府不仅是在制造一次危险的先例，也是在要求创造一种危险的工具――可供黑客和极权政府使用的一把万能钥匙。
+“Once the information is known, or a way to bypass the code is revealed, the encryption can be defeated by anyone with that knowledge,” Mr. Cook said. “The government suggests this tool could only be used once, on one phone. But that’s simply not true. Once created, the technique could be used over and over again, on any number of devices.”
+“一旦这些信息为人所知，或者破解密码的方法公之于众，任何了解这些信息的人就都能破解密码了，”库克说。“政府认为这种工具可以只在一部手机上使用一次。但事情根本不是这样。一旦创造出来，这种技术就可以在任意数量的设备上反复使用。”

@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>拉里・佩奇：一位有“知识漫游癖”的谷歌领袖_纽约时报中英文版_纽约时报中英文网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times，双语新闻"  />
+<meta name="description" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times，双语新闻"  />
+<link rel="stylesheet" type="text/css" href="/skin/qqenglish/style.css" />
+</head>
+
+<body  oncontextmenu='return false' ondragstart='return false' onselectstart ='return false' onselect='document.selection.empty()' oncopy='document.selection.empty()' onbeforecopy='return false' onmouseup='document.selection.empty()'>
+<div id="top">
+<div id="logo"><a href="/"><img src="/skin/qqenglish/logo1.gif" alt="纽约时报中英文网" width="691" height="63"></a></div> 
+<div id="menu"><ul>
+  <li><a href="/">纽约时报中文网</a></li>
+  <li><a href="/bn/bn">国际</a></li>
+  <li><a href="/bn/business">商业</a></li>
+  <li><a href="/bn/technology">科技</a></li>
+  <li><a href="/bn/education">教育</a></li>
+  <li><a href="/bn/culture">文化</a></li>
+  <li><a href="/bn/style">风尚</a></li>
+  <li><a href="/bn/health">健康</a></li>
+  <li><a href="/bn/science">科学</a></li>
+  <li><a href="/bn/travel">旅游</a></li>
+  <li><a href="/bn/opinion">观点</a></li>
+</ul></div>
+</div>
+
+<div id="position">您现在的位置：&nbsp;<a class='LinkPath' href='http://www.qqenglish.com'>纽约时报中英文网</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/Index.htm'>纽约时报中英文版</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/culture/Index.htm'>文化</a>&nbsp;>>&nbsp;正文
+</div>
+
+<div id="Container">
+<div id="content_left">
+<div id="leftMainContainer">
+
+<div>
+<div id="leftN_title" style="word-break:break-all">
+<H2>拉里・佩奇：一位有“知识漫游癖”的谷歌领袖</H2>
+<div class="times">更新时间:2016-2-1 18:40:10&nbsp;来源:<A href="http://cn.nytimes.com/" target=_blank><FONT color=#666666>纽约时报中文网</FONT></A> 作者:佚名 
+</div>
+</div>
+
+<div class="content">
+<p></p>
+<div class="bd2"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<P>How Larry Page’s Obsessions Became Google’s Business<BR>拉里・佩奇：一位有“知识漫游癖”的谷歌领袖</P>
+<P>Three years ago, Charles Chase, an engineer who manages Lockheed Martin’s nuclear fusion program, was sitting on a white leather couch at Google’s Solve for X conference when a man he had never met knelt down to talk to him.</P>
+<P>洛克希德・马丁公司(Lockheed Martin)核融合项目的工程师查尔斯・蔡斯(Charles Chase)回忆，三年前，他出席谷歌公司的Solve for X 大会，坐在白色的皮沙发上，这时，一个从来没见过的男人蹲下身来跟他说话。</P>
+<P>They spent 20 minutes discussing how much time, money and technology separated humanity from a sustainable fusion reaction ― that is, how to produce clean energy by mimicking the sun’s power ― before Mr. Chase thought to ask the man his name.</P>
+<P>两人开始讨论把人力因素从一项可持续融合反应（这是一项模仿太阳能，制造清洁能源的计划）中剥离出去，需要花费多少时间、金钱与技术。聊了20分钟，蔡斯才想起问对方的名字。</P>
+<P>“I’m Larry Page,” the man said. He realized he had been talking to Google’s billionaire co-founder and chief executive.</P>
+<P>“我是拉里・佩奇(Larry Page)，”男人说。蔡斯这才意识到，自己一直在和谷歌公司身价上亿的联合创始人兼首席执行官交谈。</P>
+<P>“He didn’t have any sort of pretension like he shouldn’t be talking to me or ‘Don’t you know who you’re talking to?’” Mr. Chase said. “We just talked.”</P>
+<P>“他没有做出任何降尊纡贵的样子，也没有摆出‘你知道自己是在跟谁说话吗？’的架子，蔡斯说。“我们就是那么聊着。”</P>
+<P>Larry Page is not a typical chief executive, and in many of the most visible ways, he is not a C.E.O. at all. Corporate leaders tend to spend a good deal of time talking at investor conferences or introducing new products on auditorium stages. Mr. Page, who is 42, has not been on an earnings call since 2013, and the best way to find him at Google I/O ― an annual gathering where the company unveils new products ― is to ignore the main stage and follow the scrum of fans and autograph seekers who mob him in the moments he steps outside closed doors.</P>
+<P>拉里・佩奇并不是一个典型的首席执行官，在很多更明显的方面，他根本就不像什么首席执行官。公司领导一般都会花费很多时间在投资大会上发言，或者在礼堂讲台上介绍新产品。42岁的佩奇从2013年起就没有参加过电话会议了，在Google I/O大会上（谷歌公司发布新产品的年度集会），要找到他，最好的办法不是去主会场，而是跟着大群粉丝和拍照者们，佩奇一从关闭的门里走出来，这些人马上就会蜂拥而上。</P>
+<P>But just because he has faded from public view does not mean he is a recluse. He is a regular at robotics conferences and intellectual gatherings like TED. Scientists say he is a good bet to attend Google’s various academic gatherings, like Solve for X and Sci Foo Camp, where he can be found having casual conversations about technology or giving advice to entrepreneurs.</P>
+<P>但是远离公众视野并不意味着他成了一个隐士。他经常参加机器人技术大会，以及TED这样的知识分子集会。科学家们说，他经常参加谷歌的各种学术会议，诸如Solve for X或Sci Foo Camp，在这样的场合，他经常就技术问题做随性的交谈，或者为企业家们给出建议。</P>
+<P>Mr. Page is hardly the first Silicon Valley chief with a case of intellectual wanderlust, but unlike most of his peers, he has invested far beyond his company’s core business and in many ways has made it a reflection of his personal fascinations.</P>
+<P>佩奇并不是第一个有点“知识漫游癖”的硅谷领袖，但和他的同类们不一样，他不仅投资自己公司的核心业务，也在其他很多他个人有兴趣的领域内投资。</P>
+<P>He intends to push even further with Alphabet, a holding company that separates Google’s various cash-rich advertising businesses from the list of speculative projects like self-driving cars that capture the imagination but do not make much money. Alphabet companies and investments span disciplines from biotechnology to energy generation to space travel to artificial intelligence to urban planning.</P>
+<P>他甚至还成立了Alphabet，这家控股公司把谷歌各种资金充裕的广告业务同风险性的项目（比如令人遐想但却赚不了钱的无人驾驶汽车）分割开来。Alphabet旗下的公司与投资涉及的学科包括生物科学与能源，乃至太空旅行、人工智能和城市规划。</P>
+<P>Investors will get a good look at the scope of those ambitions on Feb. 1, when the company, in its fourth-quarter earnings report, will disclose for the first time the costs and income of the collection of projects outside of Google’s core business.</P>
+<P>2月1日公司发布第四季度盈利报表时，投资者们便可以好好看一看这家公司的野心有多广了，这是公司首次发布谷歌核心业务之外的各种项目的支出与收入。</P>
+<P>As chief executive of Alphabet, Mr. Page is tasked with figuring how to spin Google’s billions in advertising profits into new companies and industries. When he announced the reorganization last summer, he said that he and Sergey Brin, Google’s other founder, would do this by finding new people and technologies to invest in, while at the same time slimming down Google ― now called Google Inc., a subsidiary of Alphabet ― so their leaders would have more autonomy.</P>
+<P>作为Alphabet公司的首席执行官，佩奇有责任弄清如何将谷歌在广告领域内数以十亿计的盈利用在新公司与新产业上。去年夏天，当他宣布这项重组计划的时候，他说，为了做到这一点，他与谷歌的另一位创始人谢尔盖・布林(Sergey Brin)将寻找可以投资的新人与新技术，与此同时对谷歌（现称Google Inc.，是Alphabet的一个分支机构）进行精简，让它的领导者们拥有更多自治权。</P>
+<P>“In general, our model is to have a strong C.E.O. who runs each business, with Sergey and me in service to them as needed,” Mr. Page wrote in a letter to investors. He said that he and Mr. Brin would be responsible for picking those chief executives, monitoring their progress and determining their pay.</P>
+<P>“总的来说，我们的模式就是让更强大的首席执行官来运营每项业务，谢尔盖和我在有需要的时候为他们服务，”佩奇在致投资者的信中写道。他说，他和布林将负责挑选这些首席执行官，监控他们的工作进度，并决定他们的工资。</P>
+<P>Google’s day-to-day management was left to Sundar Pichai, the company’s new chief executive. His job will not be about preventing cancer or launching rocket ships, but to keep Google’s advertising machine humming, to keep innovating in emerging areas like machine learning and virtual reality ― all while steering the company through a thicket of regulatory troubles that could drag on for years.</P>
+<P>谷歌的日常管理落到了公司的新任首席执行官桑达尔・皮查伊(Sundar Pichai)肩上。他的工作并不是治疗癌症或让火箭上天，而是让谷歌的广告机制持续运转，保证机器学习和虚拟现实之类正在崛起的领域内不断有创新发生，与此同时还要领导公司，克服可能持续数年的各种管理困难。</P>
+<P>Mr. Page’s new role is part talent scout and part technology visionary. He still has to find the chief executives of many of the other Alphabet businesses.</P>
+<P>佩奇的新角色部分是发掘人才，部分是技术预言家。他还得为许多Alphabet公司的其他业务寻找首席执行官。</P>
+<P>And he has said on several occasions that he spends a good deal of time researching new technologies, focusing on what kind of financial or logistic hurdles stand in the way of them being invented or carried out.</P>
+<P>他在许多场合说过，他花费很多时间，研究新技术，关注阻碍发明、推广它们的资金或后勤问题。</P>
+<P>His presence at technology events, while just a sliver of his time, is indicative of a giant idea-scouting mission that has in some sense been going on for years but is now Mr. Page’s main job.</P>
+<P>以前，关注技术大事只占他的一小部分时间，但也显示出那是多年寻找创意的成果，如今更是成了他的主要工作。</P>
+<P>In the investor letter, he put it this way: “Sergey and I are seriously in the business of starting new things.”</P>
+<P>在致投资者的信中他这样说：“谢尔盖和我严肃地对待创始新事物。”</P>
+<P>Mr. Page has always had a wide range of interests. As an undergraduate at the University of Michigan, he worked on solar cars, music synthesizers and once proposed that the school build a tram through campus. He arrived at Stanford’s computer science doctorate program in 1995, and had a list of initial research ideas, including self-driving cars and using the web’s many hyperlinks to improve Internet search. His thesis adviser, Terry Winograd, steered him toward search.</P>
+<P>佩奇的兴趣一直都很广泛，他曾是密歇根大学的学生，研究过太阳能汽车、音乐合成器，还曾经建议学校在校园里铺设有轨电车。1995年，他来到斯坦福大学修读电脑科学博士课程，制定了一系列原创的研究创意，其中包括无人驾驶汽车，以及使用网络超链接改善网络搜索。课题导师特里・维诺格拉德(Terry Winograd)指导了他的研究。</P>
+<P>“Even before he came to Stanford he was interested in cool technical things that could be done,” Mr. Winograd said. “What makes something interesting for him is a big technical challenge. It’s not so much where it’s headed but what the ride is like.”</P>
+<P>“在上斯坦福之前，他就已经对技术能做多酷的事感兴趣了，”维诺格拉德说。“他感兴趣的是技术大挑战。重要的不是最终的结果，而是过程。”</P>
+<P>Inside Google, Mr. Page is known for asking a lot of questions about how people do their jobs and challenging their assumptions about why things are as they are. In an interview at the Fortune Global Forum last year, Mr. Page said he enjoyed talking to people who ran the company’s data centers.</P>
+<P>在谷歌，佩奇出了名的喜欢问员工工作做得怎么样，喜欢挑战他们，不要对事情想当然。去年在全球财富论坛接受采访时，佩奇说，他喜欢和主管公司数据中心的人交谈。</P>
+<P>“I ask them, like, ‘How does the transformer work?’ ‘How does the power come in?’ ‘What do we pay for that?’” he said. “And I’m thinking about it kind of both as an entrepreneur and as a business person. And I’m thinking ‘What are those opportunities?’”</P>
+<P>“我问他们‘变压器是怎么工作的？’‘电源是怎么进来的？’‘我们为什么要为这个花钱？’”他说。“我既是以企业家的身份，也是以生意人的身份来问这个问题。我在想‘这些机会都是什么？’”</P>
+<P>Another question he likes to ask: “Why can’t this be bigger?”</P>
+<P>他还喜欢问这样一个问题：“这个为什么不能再大一点儿？”</P>
+<P>Mr. Page declined multiple requests for comment, and many of the people who spoke about him requested anonymity because they were not supposed to talk about internal company matters.</P>
+<P>佩奇拒绝过许多要求发表评论的请求，许多对他发表评论的人也要求匿名，因为他们不应该评论公司内部的事情。</P>
+<P>Many former Google employees who have worked directly with Mr. Page said his managerial modus operandi was to take new technologies or product ideas and generalize them to as many areas as possible. Why can’t Google Now, Google’s predictive search tool, be used to predict everything about a person’s life? Why create a portal to shop for insurance when you can create a portal to shop for every product in the world?</P>
+<P>谷歌的许多直接为佩奇工作的前员工说，他在管理上的风格就是采纳新技术或产品创意，并且尽可能在更多的领域推广它们。谷歌的预测搜索工具Google Now为什么不能用来预测一个人生活中的每一件事呢？如果你能创建一个门户，去购买世界上各种各样的物品，那么为什么要创造一个门户，只买保险呢？</P>
+<P>But corporate success means corporate sprawl, and recently Google has seen a number of engineers and others leave for younger rivals like Facebook and start-ups like Uber. Mr. Page has made personal appeals to some of them, and, at least in a few recent cases, has said he is worried that the company has become a difficult place for entrepreneurs, according to people who have met with him.</P>
+<P>但是公司的成功也意味着公司的扩张很杂乱，最近，谷歌的许多工程师和其他员工纷纷离开，加入Facebook这样更年轻的竞争对手和Uber这样的初创公司。佩奇私下里挽留过一些人，根据和他会面过的人说，至少在最近的几次，他说自己担心公司已经成了一个让企业家很难待下去的地方。</P>
+<P>Part of Mr. Page’s pitch included emphasizing how dedicated he was to “moonshots” like interplanetary travel, or offering employees time and money to pursue new projects of their own. By breaking Google into Alphabet, Mr. Page is hoping to make it a more welcoming home for employees to build new businesses, as well as for potential acquisition targets.</P>
+<P>佩奇的宣传策略包括强调他有多么专注于“登月”之类的行星旅行，还有他会给雇员充分的时间和金钱，鼓励他们开展自己的新项目。把谷歌分裂为Alphabet后，佩奇希望，它能成为更受雇员欢迎的家，可以打造新的事业，也可以更受潜在收购目标们的欢迎。</P>
+<P>It will also rid his office of the kind of dull-but-necessary annoyances of running a major corporation. Several recently departed Google staff members said that as chief executive of Google, Mr. Page had found himself in the middle of various turf wars, like how to integrate Google Plus, the company’s struggling social media effort, with other products like YouTube, or where to put Google Now, which resided in the Android team but was moved to the search group.</P>
+<P>这也会让他的办公室摆脱那种大公司的“死板但必要”的可厌风格。最近几名离开谷歌的员工说，作为谷歌的首席执行官，佩奇发现自己深陷若干不同的战场，比如如何把公司举步维艰的社交媒体尝试Google Plus和YouTube等产品结合在一起，或者如何处理从属于安卓团队，但又转移到搜索团队的Google Now。</P>
+<P>Such disputes are a big reason Mr. Page had been shedding managerial duties and delegating the bulk of his product oversight to Mr. Pichai, these people said. In a 2014 memo to the company announcing Mr. Pichai’s promotion to product chief, Mr. Page said the move would allow him to “focus on the bigger picture” at Google and have more time to get the company’s next generation of big bets off the ground.</P>
+<P>这些人说，这些争议迫使佩奇把管理责任分给了皮查伊，并把大部分产品的监督职责也交给了他。2014年皮查伊升任首席产品官，在提交给公司的备忘录中，佩奇说，这项任命能让自己在谷歌内“关注大局”，有更多的时间拔擢公司的下一代。</P>
+<P>People who have worked with Mr. Page say that he tries to guard his calendar, avoiding back-to-back meetings and leaving time to read, research and see new technologies that interest him.</P>
+<P>和佩奇一起工作过的人说他努力按时间表做事，避免连续开会，总是留出时间给阅读、研究和发现自己感兴趣的新技术。</P>
+<P>Given that he is worth in the neighborhood of $40 billion and created the world’s most famous website, Mr. Page has the tendency to attract a crowd when he attends technology events. At last year’s Darpa Robotics Challenge, he was trailed closely by a handler who at times acted as a buffer between Mr. Page and would-be cellphone photographers. That commotion could annoy anyone, but it is particularly troubling for Mr. Page, who, because of damaged vocal cords, speaks just above a whisper and sometimes uses a microphone in small meetings.</P>
+<P>鉴于他的身价接近400亿美元，创立了世界上最有名的网站，佩奇参加任何大会，总会吸引众人的追随。去年在Darpa机器人挑战赛上，一个操作员紧紧跟随着他，充当他与手机拍摄者们之间的缓冲。这样的混乱场面会惹恼任何人，而佩奇对此感到格外困扰，他因为声带受损，都要以耳语的音量说话，有时候在小型会议上都要使用麦克风。</P>
+<P>At home in Palo Alto, Mr. Page tries to have the most normal life possible, driving his children to school or taking his family to local street fairs, according to people who know him or have seen him at such events.</P>
+<P>回到帕罗奥图市的家里，佩奇尽量努力过着最平凡的生活，有些认识他的人说，他开车送孩子们去学校，或者载着家人去逛本地街头市集，有些人在这些场合亲眼见过他。</P>
+<P>And at Google, even events that are decidedly not normal aspire to a kind of casualness. Take the Camp, an exclusive and secretive event that Google holds at a resort in Sicily and where invitees have included Elon Musk, the chief executive of Tesla Motors and SpaceX, Lloyd C. Blankfein, the chief executive of Goldman Sachs, and Tory Burch, the fashion designer.</P>
+<P>在谷歌公司，就算显然非同寻常的事件也在追求一种随意感。Take The Camp是谷歌在硅谷内部一处景点专门组织的内部秘密活动，受邀者包括特斯拉汽车公司与SpaceX的首席执行官埃隆・马斯克(Elon Musk)，高盛集团的首席执行官劳埃德・C・布兰克费恩(Lloyd C. Blankfein)，以及时尚设计师托里・伯奇(Tory Burch)。</P>
+<P>One attendee, who asked to remain anonymous because guests were not supposed to discuss the gathering, recalls being surprised by how much time Mr. Page spent with his children.</P>
+<P>一位要求匿名接受采访的参加者（因为宾客不应谈论这次聚会）回忆说，佩奇和孩子们相处的时间很长，令人吃惊。</P>
+<P>In public remarks, Mr. Page has said how important his father, Carl V. Page, a computer science professor at Michigan State University who died in 1996, was to his choice of career.</P>
+<P>在公开发言的时候，佩奇曾经说过，自己的父亲，1996年去世的密歇根州立大学电脑科学教授卡尔・V・佩奇对自己选择职业至关重要。</P>
+<P>“My dad was really interested in technology,” Mr. Page said at Google I/O in 2013, the last time he took the stage at the event. “He actually drove me and my family all the way across the country to go to a robotics conference. And then we got there and he thought it was so important that his young son go to the conference, one of the few times I’ve seen him really argue with someone to get in someone underage successfully into the conference, and that was me.”</P>
+<P>“爸爸对技术非常感兴趣，”2013年，佩奇在Google I/O大会上说，这也是他最后一次出席这个会议。“他开车载着我和全家横穿整个国家，去参加一个机器人大会。我们到了那儿，他觉得让他的小儿子能参加大会是非常重要的事。为了让不满年龄的儿子进入会场，他罕见地和别人吵了起来，那个儿子就是我。”</P>
+<P>People who work with Mr. Page or have spoken with him at conferences say he tries his best to blend in, and, for the most part, the smaller groups of handpicked attendees at Google’s academic and science gatherings, tend to treat him like a peer.</P>
+<P>和佩奇共事或在会议上与他交谈的人都说，他尽量努力和人打成一片，大多数时候，经过精心选择后来参加谷歌学术与科学会议的小圈子，都愿意把他当做平等的同伴看待。</P>
+<P>The scope of his curiosity was apparent at Sci Foo Camp, an annual invitation-only conference that is sponsored by Google, O’Reilly Media and Digital Science.</P>
+<P>佩奇的好奇心在Sci Foo Camp上展露无遗，这是一项由谷歌、O’Reilly Media和数字科学(Digital Science)公司联合赞助的活动，受邀才能参加。</P>
+<P>The largely unstructured “unconference” begins when each of its attendees ― an eclectic batch of astronomers, psychologists, physicists and others ― write something that interests them on a small card and then paste it to a communal wall. Those notes become the basis for breakout talks on topics like scientific ethics or artificial intelligence.</P>
+<P>活动中，组织松散的大型“非大会”(unconference)的参加者是一群天文学家、心理学家、物理学家等学者。活动开始时，他们在小卡片上写一些自己感兴趣的东西，把它贴在一面公共的墙壁上。这些卡片成为随后讨论课题的基础，诸如科学伦理或人工智能。</P>
+<P>The last conference was held during a weekend in June on Google’s Mountain View, Calif., campus, and Mr. Page was there for most of it. He did not host or give a speech, but mingled and went to talks, just like everyone else. That impressed investors and computer scientists who did not expect to see so much of him, but researchers who had come from outside Silicon Valley barely noticed.</P>
+<P>上次大会是在6月的一个周末举行，地点是在加利福尼亚的山景城，谷歌的园区之内，佩奇大部分时间都在。他并没有主持讲座或者做演讲，而是像普通人一样，混在人们中间，和众人聊天。这给与会的投资者和电脑科学家们留下了深刻印象，他们本来没指望能见到他，但是来自硅谷之外的研究者们却几乎没有留意到他。</P>
+<P>“I have a vague memory that some founder type person was walking through the crowd,” said Josh Peek, an assistant astronomer at the Space Telescope Science Institute in Baltimore.</P>
+<P>“我模糊地记得什么创始人好像也在人群里，”巴尔的摩的太空望远镜研究所的助理天文学家乔希・皮克(Josh Peek)说。</P>
+<P>Another benefit of these gatherings for the reserved Mr. Page is that they are mostly closed to the news media.</P>
+<P>对于内向的佩奇来说，这些集会还有一项好处――它们大都不对新闻媒体开放。</P>
+<P>When Mr. Page does talk in public, he tends to focus on optimistic pronouncements about the future and Google’s desire to help humanity. Asked about current issues, like how mobile apps are challenging the web or how ad blockers are affecting Google’s business, he tends to dismiss it with something like, “People have been talking about that for a long time.”</P>
+<P>佩奇当众演讲时，他一般都是对未来发表乐观的宣言，并表达谷歌帮助人类的意愿。有时他也会被问到关于当下的问题，比如手机应用对网络的挑战，或者广告屏蔽软件是否会影响谷歌的生意，他总会避而不答，说“关于这个，人们已经讨论了很长时间。”</P>
+<P>Lately, he has talked more about his belief that for-profit companies can be a force for social good and change. During a 2014 interview with Charlie Rose, Mr. Page said that instead of a nonprofit or philanthropic organization, he would rather leave his money to an entrepreneur like Mr. Musk.</P>
+<P>后来，他开始更多谈论自己的信念，即盈利公司可以成为促进社会公益与变革的力量。2014年接受查理・罗斯(Charlie Rose)采访时，佩奇说，比起非盈利组织或慈善机构，他宁愿把自己的钱留给马斯克这样的企业家。</P>
+<P>Of course, for every statement Mr. Page makes about Alphabet’s technocorporate benevolence, you can find many competitors and privacy advocates holding their noses in disgust. Technology companies like Yelp have accused the company of acting like a brutal monopolist that is using the dominance of its search engine to steer consumers toward Google services, even if that means giving the customers inferior information.</P>
+<P>当然，佩奇就Alphabet技术公司的慈善事业所做的每一个宣言都会有许多竞争者和隐私支持者表示不屑。Yelp这样的技术公司就指控谷歌是残酷的垄断者，因为它利用自己在搜索引擎界的统治地位，引导消费者使用谷歌服务，即便这意味着让消费者得到劣质的信息。</P>
+<P>Financially speaking, Mr. Page is leaving his chief executive job at Google at a time when things could not be better. The company’s revenue continues to grow about 20 percent a year, an impressive figure for any business, but particularly so for one that is on pace to generate approximately $60 billion this year.</P>
+<P>从财政角度讲，佩奇是在事态最好的时候离开谷歌首席执行官这个位子的。公司的年度利润率一直以每年约20%的速度增长，对于任何企业来说都是相当高的数字，而对于一个今年创造了将近600亿产值的公司来说就更是如此。</P>
+<P>In fact, the company’s main business issue seems to be that it is doing too well. Google is facing antitrust charges in Europe, along with investigations in Europe and the United States. Those issues are now mostly Mr. Pichai’s to worry about, as Mr. Page is out looking for the next big thing.</P>
+<P>事实上，公司的主要业务所面临的问题似乎是：它做得太好了。谷歌在欧洲正面临违反反托拉斯法的指控，在欧洲和美国都在接受调查。在佩奇出去寻找下一件大事的期间，这些问题是现在皮查伊最担心的。</P>
+<P>It is hard to imagine how even the most ambitious person could hope to revolutionize so many industries. And Mr. Page, no matter how smart, cannot possibly be an expert in every area Alphabet wants to touch.</P>
+<P>即便对于一个如此雄心勃勃的人，也很难想象他可以在那么多领域内做出革新。不管佩奇有多么聪明，也不可能充当Alphabet公司愿意涉足的每一个领域内的专家。</P>
+<P>His method is not overly technical. Instead, he tends to focus on how to make a sizable business out of whatever problem this or that technology might solve. Leslie Dewan, a nuclear engineer who founded a company that is trying to generate cheap electricity from nuclear waste, also had a brief conversation with Mr. Page at the Solve For X conference.</P>
+<P>他的方式并不过分技术性。相反，他倾向于关注基于这项技术所能解决的问题，如何建立一个有规模的企业。核工程师莱斯利・德文(Leslie Dewan)创立了一个使用核废料制造廉价电能的公司，在Solve For X大会上，她也和佩奇短暂交谈过。</P>
+<P>She said he questioned her on things like modular manufacturing and how to find the right employees.</P>
+<P>她说，他问他关于建模的问题，以及招募合适雇员的问题。</P>
+<P>“He doesn’t have a nuclear background, but he knew the right questions to ask,” said Dr. Dewan, chief executive of Transatomic Power. “‘Have you thought about approaching the manufacturing in this way?’ ‘Have you thought about the vertical integration of the company in this way?’ ‘Have you thought about training the work force this way?’ They weren’t nuclear physics questions, but they were extremely thoughtful ways to think about how we could structure the business.”</P>
+<P>“他没有原子核方面的背景，但他知道该问什么样的问题，”Transatomic Power公司的首席执行官德文博士说。“‘你想过用这种方式来建造模型吗？‘‘你想过这样培训员工吗？’这些都不是核物理问题，但它们都是关于建构企业的思维方式，是经过深思熟虑的。”</P>
+<P>Dr. Dewan said Mr. Page even gave her an idea for a new market opportunity that she had not thought of. Asked to be more specific, she refused. The idea was too good to share.</P>
+<P>德文博士说，佩奇甚至给了她一个新市场机会的点子，这是她以前从来没想过的。她拒绝透露更多细节，这个点子实在太好了，可不能跟别人分享。</P>
+</div>
+<P><FONT color=#666666>“全文请访问<A title="" href="http://cn.nytimes.com/" target=_blank><FONT color=#666666>纽约时报中文网</FONT></A>，本文发表于纽约时报中文网（http://cn.nytimes.com），版权归纽约时报公司所有。任何单位及个人未经许可，不得擅自转载或翻译。订阅纽约时报中文网新闻电邮：http://nytcn.me/subscription/”</FONT></P>
+<div class="pagebreak">
+</div>
+
+ </div>
+  </div>
+  
+</div>
+
+<div id="content_right">
+<div class=right_title>相关文章列表
+</div>
+<div id="list">
+<ul><a class='LinkArticleCorrelative' href='/bn/16616.htm' title='文章标题：来自纳粹大屠杀期间的艺术
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-1 9:34:17' target="_self">来自纳粹大屠杀期间的艺术</a><br><a class='LinkArticleCorrelative' href='/bn/16615.htm' title='文章标题：美国著名建筑师设计的住宅将于洛杉矶拍卖
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-1 9:31:25' target="_self">美国著名建筑师设计的住宅将于洛杉矶拍卖</a><br><a class='LinkArticleCorrelative' href='/bn/16613.htm' title='文章标题：向东京的传奇渔市说“撒哟啦啦”
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-1 9:20:17' target="_self">向东京的传奇渔市说“撒哟啦啦”</a><br><a class='LinkArticleCorrelative' href='/bn/16537.htm' title='文章标题：日本国技“雪耻”：本土选手十年来首夺相扑冠军
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-27 18:48:39' target="_self">日本国技“雪耻”：本土选手十年来首夺相扑冠军</a><br><a class='LinkArticleCorrelative' href='/bn/16508.htm' title='文章标题：美国最好的岁月已经过去了吗？
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-27 10:02:44' target="_self">美国最好的岁月已经过去了吗？</a><br><a class='LinkArticleCorrelative' href='/bn/16507.htm' title='文章标题：中国画家卷入纽约画廊造假案
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-27 10:00:16' target="_self">中国画家卷入纽约画廊造假案</a><br><a class='LinkArticleCorrelative' href='/bn/16506.htm' title='文章标题：兴建吴哥博物馆，柬埔寨请朝鲜帮忙
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-27 9:56:29' target="_self">兴建吴哥博物馆，柬埔寨请朝鲜帮忙</a><br><a class='LinkArticleCorrelative' href='/bn/16484.htm' title='文章标题：一位患癌大夫的离世过程全记录
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-26 10:25:23' target="_self">一位患癌大夫的离世过程全记录</a><br><a class='LinkArticleCorrelative' href='/bn/16483.htm' title='文章标题：殡葬主题藏品：博物馆和拍卖行的新宠
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-26 10:22:49' target="_self">殡葬主题藏品：博物馆和拍卖行的新宠</a><br><a class='LinkArticleCorrelative' href='/bn/16481.htm' title='文章标题：白人主宰的奥斯卡该怎样提升种族多样性
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-26 10:19:16' target="_self">白人主宰的奥斯卡该怎样提升种族多样性</a><br></ul>
+</div>
+</div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+<div class="bd1"><script type="text/javascript">
+/*自定义标签云，创建于2014-2-10*/
+var cpro_id = "u1466768";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+
+</div>
+<div class="clearing"></div>
+<div id="footer">
+</div>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=1&amp;pos=right&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="count"><script src="http://s4.cnzz.com/stat.php?id=5427419&web_id=5427419&show=pic1" language="JavaScript"></script></div>
+
+</body></html>

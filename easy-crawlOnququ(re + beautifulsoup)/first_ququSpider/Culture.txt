@@ -1,0 +1,447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>纽约时报中英文网,纽约时报中英对照,New York Times,中英文版,双语新闻</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times"  />
+<meta name="description" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times"  />
+<link rel="stylesheet" type="text/css" href="/skin/qqenglish/style.css" />
+</head>
+
+<body>
+<div id="top">
+<div id="logo"><a href="/"><img src="/skin/qqenglish/logo1.gif" alt="纽约时报中英文网" width="691" height="63"></a></div> 
+<div id="menu"><ul>
+  <li><a href="/">纽约时报中文网</a></li>
+  <li><a href="/bn/bn">国际</a></li>
+  <li><a href="/bn/business">商业</a></li>
+  <li><a href="/bn/technology">科技</a></li>
+  <li><a href="/bn/education">教育</a></li>
+  <li><a href="/bn/culture">文化</a></li>
+  <li><a href="/bn/style">风尚</a></li>
+  <li><a href="/bn/health">健康</a></li>
+  <li><a href="/bn/science">科学</a></li>
+  <li><a href="/bn/travel">旅游</a></li>
+  <li><a href="/bn/opinion">观点</a></li>
+</ul></div>
+</div>
+
+<div id="position">您现在的位置：&nbsp;<a class='LinkPath' href='http://www.qqenglish.com'>纽约时报中英文网</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/Index.htm'>纽约时报中英文版</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/culture/Index.htm'>文化</a>
+</div>
+
+<div id="Container">
+<div id="content_left">
+<div id="leftMainContainer">
+
+<div>
+<div id="leftN_title">
+
+    <div id="list">
+        <div>
+<div class="bd"><script type="text/javascript">
+/*自定义标签云，创建于2014-2-10*/
+var cpro_id = "u1466762";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+	
+
+<ul>
+		<li><span>2016-2-26</span><a href="/bn/17064.htm" target=_blank>伊朗提高追杀英国小说家拉什迪的赏金</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-26</span><a href="/bn/17063.htm" target=_blank>一部影响美国网络安全政策的电影</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-25</span><a href="/bn/17051.htm" target=_blank>权力之巅的玛格丽特・撒切尔</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-24</span><a href="/bn/17014.htm" target=_blank>黑人演什么才能获得奥斯卡青睐？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-23</span><a href="/bn/16986.htm" target=_blank>《山河故人》：贾樟柯镜头中那个变迁的中国</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-22</span><a href="/bn/16961.htm" target=_blank>《玫瑰之名》作者、畅销学人艾柯去世</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-22</span><a href="/bn/16960.htm" target=_blank>《杀死一只知更鸟》作者哈珀・李去世</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-22</span><a href="/bn/16959.htm" target=_blank>瑙莱坞：讲述非洲故事的尼日利亚电影梦工厂</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-19</span><a href="/bn/16930.htm" target=_blank>柏金和甘斯布，缪斯母女档</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-18</span><a href="/bn/16898.htm" target=_blank>美国“琼瑶”丹尼尔&#12539;斯蒂尔的枕边书</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-18</span><a href="/bn/16897.htm" target=_blank>史泰龙：演动作片就像肾上腺素上瘾</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-18</span><a href="/bn/16896.htm" target=_blank>虚拟现实技术向科幻小说借些灵感</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-17</span><a href="/bn/16868.htm" target=_blank>泰戈尔作品翻译在中国掀起风波</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-16</span><a href="/bn/16854.htm" target=_blank>2016格莱美最完整获奖名单</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-16</span><a href="/bn/16843.htm" target=_blank>电影人视角下的一起美国冤案</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-15</span><a href="/bn/16829.htm" target=_blank>古巴向好莱坞敞开大门，本土电影人喜忧参半</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-15</span><a href="/bn/16816.htm" target=_blank>保罗・克鲁格曼评《美国增长之起落》</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-14</span><a href="/bn/16807.htm" target=_blank>伦理讨论：同性恋夫夫选择收养还是代孕？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-14</span><a href="/bn/16806.htm" target=_blank>如果你的爸爸是色情作家</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-7</span><a href="/bn/16782.htm" target=_blank>寻找著名埃及王后之墓</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-7</span><a href="/bn/16780.htm" target=_blank>受尊敬的艺术藏家，跟土豪气无关</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-5</span><a href="/bn/16749.htm" target=_blank>谁能成为古根汉的后继者？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-4</span><a href="/bn/16718.htm" target=_blank>2016将是艺术市场的好年份还是坏年份</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-4</span><a href="/bn/16717.htm" target=_blank>“斗牛之神”何塞・托马斯：用玩命战胜死亡</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-4</span><a href="/bn/16716.htm" target=_blank>芭比娃娃推出丰满、小巧和高大版本</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-4</span><a href="/bn/16713.htm" target=_blank>黑人历史月送猴年T恤，NBA球队惹麻烦</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-3</span><a href="/bn/16679.htm" target=_blank>当电影人来敲门：对话作家沃克与托宾</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-2</span><a href="/bn/16651.htm" target=_blank>《红楼梦》登上纽约话剧舞台</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-2</span><a href="/bn/16650.htm" target=_blank>在芝加哥看“胡适”：雕塑展上的尴尬种族观</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-1</span><a href="/bn/16631.htm" target=_blank>中国少年在美国追逐“冰球梦”</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-1</span><a href="/bn/16630.htm" target=_blank>拉里・佩奇：一位有“知识漫游癖”的谷歌领袖</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-1</span><a href="/bn/16616.htm" target=_blank>来自纳粹大屠杀期间的艺术</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-1</span><a href="/bn/16615.htm" target=_blank>美国著名建筑师设计的住宅将于洛杉矶拍卖</a></li>
+            </ul>
+<ul>
+		<li><span>2016-2-1</span><a href="/bn/16613.htm" target=_blank>向东京的传奇渔市说“撒哟啦啦”</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-27</span><a href="/bn/16537.htm" target=_blank>日本国技“雪耻”：本土选手十年来首夺相扑冠军</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-27</span><a href="/bn/16508.htm" target=_blank>美国最好的岁月已经过去了吗？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-27</span><a href="/bn/16507.htm" target=_blank>中国画家卷入纽约画廊造假案</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-27</span><a href="/bn/16506.htm" target=_blank>兴建吴哥博物馆，柬埔寨请朝鲜帮忙</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-26</span><a href="/bn/16484.htm" target=_blank>一位患癌大夫的离世过程全记录</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-26</span><a href="/bn/16483.htm" target=_blank>殡葬主题藏品：博物馆和拍卖行的新宠</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-26</span><a href="/bn/16481.htm" target=_blank>白人主宰的奥斯卡该怎样提升种族多样性</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-21</span><a href="/bn/16394.htm" target=_blank>《福布斯》杂志新旧东家为4.6万美元起争议</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-21</span><a href="/bn/16387.htm" target=_blank>《小不列颠札记》作者比尔・布莱森的枕边书</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-20</span><a href="/bn/16354.htm" target=_blank>最大恐龙化石亮相美国自然历史博物馆</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-20</span><a href="/bn/16352.htm" target=_blank>全美书评人协会奖公布年度图书提名</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-19</span><a href="/bn/16324.htm" target=_blank>隐身的纽约客，大卫・鲍伊</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-17</span><a href="/bn/16291.htm" target=_blank>奥斯卡小金人究竟是黑是白？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-15</span><a href="/bn/16262.htm" target=_blank>20年前，《傲慢与偏见》在美成为一个现象</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-14</span><a href="/bn/16242.htm" target=_blank>好莱坞卖座电影背后的女电影人</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-14</span><a href="/bn/16241.htm" target=_blank>朋克摇滚与古典音乐，在人民大会堂克制地相遇</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-13</span><a href="/bn/16179.htm" target=_blank>联邦法官裁定，猴子不拥有自拍照版权</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-12</span><a href="/bn/16161.htm" target=_blank>唐顿庄园作者用手机应用发行新作</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-12</span><a href="/bn/16155.htm" target=_blank>84岁的默多克又订婚了，将迎娶前名模</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-12</span><a href="/bn/16145.htm" target=_blank>中国摇滚明星哀悼鲍伊之死</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-11</span><a href="/bn/16127.htm" target=_blank>“小李”夺金球奖影帝，《荒野猎人》成大赢家</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-11</span><a href="/bn/16126.htm" target=_blank>奥斯卡偏爱有关娱乐业的纪录片？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-11</span><a href="/bn/16125.htm" target=_blank>英国传奇音乐巨星大卫・鲍伊去世</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-11</span><a href="/bn/16110.htm" target=_blank>当新闻真相遇上电影虚构</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-10</span><a href="/bn/16105.htm" target=_blank>谁偷了林肯的手？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-8</span><a href="/bn/16076.htm" target=_blank>2015，执迷于身份认同的一年</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-7</span><a href="/bn/16036.htm" target=_blank>用“设计思维”打造一个更好的自己</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-7</span><a href="/bn/16033.htm" target=_blank>造星工厂《美国偶像》迎来最后一季</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-7</span><a href="/bn/16032.htm" target=_blank>《原力觉醒》：中国星战迷的新希望？</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-6</span><a href="/bn/16003.htm" target=_blank>比尔・盖茨如何选出他的年度最佳书籍清单</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-6</span><a href="/bn/16002.htm" target=_blank>想要新书大卖？让比尔・盖茨点个赞</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-5</span><a href="/bn/15968.htm" target=_blank>在中东最有影响力的一本艺文杂志</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-4</span><a href="/bn/15937.htm" target=_blank>在华尔街23号展现充满暴力的想像</a></li>
+            </ul>
+<ul>
+		<li><span>2016-1-2</span><a href="/bn/15928.htm" target=_blank>多年以后的“莱娅公主”：别问我是否老得优雅</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-31</span><a href="/bn/15908.htm" target=_blank>《生活大爆炸》中经典歌曲被指剽窃</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-30</span><a href="/bn/15889.htm" target=_blank>时报影评：《老炮儿》，137分钟的松弛故事</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-30</span><a href="/bn/15879.htm" target=_blank>美国癌症协会主席出书谈癌症的终结</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-30</span><a href="/bn/15878.htm" target=_blank>续集撑起好莱坞票房掘金重任</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-29</span><a href="/bn/15851.htm" target=_blank>18世纪前绘画大师作品拍卖市场遇冷</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-28</span><a href="/bn/15834.htm" target=_blank>门当户对的婚姻扩大着美国贫富差距</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-24</span><a href="/bn/15774.htm" target=_blank>《星球大战：原力觉醒》搅局奥斯卡？</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-24</span><a href="/bn/15773.htm" target=_blank>好莱坞男星同意把偷来的恐龙化石归还蒙古</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-23</span><a href="/bn/15754.htm" target=_blank>导购女郎又成流行文化的焦点</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-23</span><a href="/bn/15742.htm" target=_blank>流媒体，突破传统中的“电视剧”</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-23</span><a href="/bn/15741.htm" target=_blank>陪伴西医姥姥在美国当中医</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-22</span><a href="/bn/15708.htm" target=_blank>在印度贾瓦伊，人与豹子达成的和解能否延续</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-22</span><a href="/bn/15706.htm" target=_blank>怀旧的力量：《原力觉醒》破票房纪录</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-22</span><a href="/bn/15705.htm" target=_blank>2015在大银幕留下印记的六名编剧</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-21</span><a href="/bn/15676.htm" target=_blank>24幅荷兰失窃油画在乌克兰露面</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-17</span><a href="/bn/15624.htm" target=_blank>匈牙利、法国有望领跑奥斯卡最佳外语片角逐</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-17</span><a href="/bn/15623.htm" target=_blank>捕捉一个暴戾的时代，需要用暴戾的喜剧</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-17</span><a href="/bn/15620.htm" target=_blank>被美国人收养的中国弃儿，他们过着怎样的生活？</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-17</span><a href="/bn/15597.htm" target=_blank>星象与内心，感情的事你听谁的</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-17</span><a href="/bn/15595.htm" target=_blank>威廉・林赛：我想让长城文物开口说话</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-16</span><a href="/bn/15563.htm" target=_blank>《间谍之桥》，斯皮尔伯格揭秘美苏情报战</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-16</span><a href="/bn/15560.htm" target=_blank>拯救皮影戏，袖珍人探寻自己的乐园</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-15</span><a href="/bn/15538.htm" target=_blank>本尼迪特克・安德森逝世（英文）</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-15</span><a href="/bn/15526.htm" target=_blank>设计师顺应文化，令裸体社交更安心</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-15</span><a href="/bn/15525.htm" target=_blank>2015年时报影评人心中的最佳电影</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-14</span><a href="/bn/15499.htm" target=_blank>新加坡国家美术馆背后的艺术野心</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-12</span><a href="/bn/15481.htm" target=_blank>《星球大战》来到爱尔兰神秘小岛（英文）</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-11</span><a href="/bn/15466.htm" target=_blank>一本探究ISIS邪恶起源的新书</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-10</span><a href="/bn/15432.htm" target=_blank>半路杀出个“程咬金”，达芬奇疑作迷雾重重</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-9</span><a href="/bn/15417.htm" target=_blank>约翰・列侬遇刺35周年，小野洋子呼吁禁枪</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-9</span><a href="/bn/15404.htm" target=_blank>那个用黄金打字机创造出007的男人</a></li>
+            </ul>
+<ul>
+		<li><span>2015-12-7</span><a href="/bn/15341.htm" target=_blank>《丹麦女孩》：性开放的丹麦，跨性别的冒险</a></li>
+            </ul>
+
+
+        </div>
+
+         <div align=center> 
+<div class="showpage">共 <b>1146</b> 个文章&nbsp;&nbsp;首页 | 上一页 | <font color="FF0000">1</font> <a href="/bn/culture/List_11.htm">2</a> <a href="/bn/culture/List_10.htm">3</a> <a href="/bn/culture/List_9.htm">4</a> <a href="/bn/culture/List_8.htm">5</a> <a href="/bn/culture/List_7.htm">6</a> <a href="/bn/culture/List_6.htm">7</a> <a href="/bn/culture/List_5.htm">8</a> <a href="/bn/culture/List_4.htm">9</a> | <a href='/bn/culture/List_11.htm'>下一页</a> | <a href='/bn/culture/List_1.htm'>尾页  </a>&nbsp;<b>100</b>个文章/页&nbsp;&nbsp;转到第<Input type='text' name='page' size='3' maxlength='5' value='1' onKeyPress="gopage(this.value,12)">页<script language='javascript'>
+function gopage(page,totalpage){
+  if (event.keyCode==13){
+    if(Math.abs(page)>totalpage) page=totalpage;
+    if(Math.abs(page)>1) window.location='/bn/culture/List_'+(totalpage-Math.abs(page)+1)+'.htm';
+    else  window.location='/bn/culture/Index.htm';
+  }
+}
+</script>
+</div>
+
+
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="content_right">
+<div class=right_title>最新更新
+</div>
+<ul> 
+<li><a href="/bn/17064.htm" target="_blank">伊朗提高追杀英国小说家拉什迪的赏金</a></li> 
+<li><a href="/bn/17063.htm" target="_blank">一部影响美国网络安全政策的电影</a></li> 
+<li><a href="/bn/17062.htm" target="_blank">在印尼古都日惹，感受爪哇文化的创新与冒险</a></li> 
+<li><a href="/bn/17061.htm" target="_blank">彼得・梁之罪：一场关于种族、特权与公正的…</a></li> 
+<li><a href="/bn/17060.htm" target="_blank">硅谷大亨买海滩，公众使用需付钱？</a></li> 
+<li><a href="/bn/17059.htm" target="_blank">美国百岁老人被室友杀害，引发养老院仲裁纠…</a></li> 
+<li><a href="/bn/17051.htm" target="_blank">权力之巅的玛格丽特・撒切尔</a></li> 
+<li><a href="/bn/17050.htm" target="_blank">美国政府要求苹果解锁更多iPhone</a></li> 
+<li><a href="/bn/17049.htm" target="_blank">美国新增14个疑似性传播兹卡病例</a></li> 
+<li><a href="/bn/17044.htm" target="_blank">凭什么女孩就该远离危险？勇气并非男生专利</a></li> </ul>
+</div>
+
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+
+</div>
+<div class="clearing"></div>
+<div id="footer">
+</div>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=1&amp;pos=right&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="count"><script src="http://s4.cnzz.com/stat.php?id=5427419&web_id=5427419&show=pic1" language="JavaScript"></script></div>
+
+</body></html>

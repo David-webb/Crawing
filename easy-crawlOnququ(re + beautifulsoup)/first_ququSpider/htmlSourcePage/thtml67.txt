@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>摩根大通加大金融技术投入&nbsp;应对硅谷新威胁_华尔街日报中英文版_华尔街日报中英文网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="华尔街日报中英文网,华尔街日报中英文版,华尔街日报中英对照,Wall Street Journal,双语新闻"  />
+<meta name="description" content="华尔街日报中英文网,华尔街日报中英文版,华尔街日报中英对照,Wall Street Journal,双语新闻"  />
+<link rel="stylesheet" type="text/css" href="/skin/qqenglish/style.css" />
+</head>
+
+<body  oncontextmenu='return false' ondragstart='return false' onselectstart ='return false' onselect='document.selection.empty()' oncopy='document.selection.empty()' onbeforecopy='return false' onmouseup='document.selection.empty()'>
+<div id="top">
+<div id="logo"><a href="/"><img src="/skin/qqenglish/logo1.gif" alt="纽约时报中英文网" width="691" height="63"></a></div> 
+<div id="menu"><ul>
+  <li><a href="/wsj">华尔街日报中文网</a></li>
+  <li><a href="/wsj/news">时事</a></li>
+  <li><a href="/wsj/wsj">经济</a></li>
+  <li><a href="/wsj/life">生活</a></li>
+  <li><a href="/wsj/technology">科技</a></li>
+  <li><a href="/wsj/job">职场</a></li>
+  <li><a href="/wsj/medical">医疗</a></li>
+  <li><a href="/wsj/fashion">时尚</a></li>
+  <li><a href="/wsj/sports">体育</a></li>
+</ul></div>
+</div>
+
+<div id="position">您现在的位置：&nbsp;<a class='LinkPath' href='http://www.qqenglish.com'>纽约时报中英文网</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/wsj/Index.htm'>华尔街日报中英文版</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/wsj/wsj/Index.htm'>经济</a>&nbsp;>>&nbsp;正文
+</div>
+
+<div id="Container">
+<div id="content_left">
+<div id="leftMainContainer">
+
+<div>
+<div id="leftN_title" style="word-break:break-all">
+<H2>摩根大通加大金融技术投入&nbsp;应对硅谷新威胁</H2>
+<div class="times">更新时间:2016-2-23 19:28:18&nbsp;来源:<FONT color=#666666>华尔街日报中文网</FONT> 作者:佚名 
+</div>
+</div>
+
+<div class="content">
+<p></p>
+<div class="bd2"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<P>摩根大通公司(JPMorgan Chase &amp; Co. ,JPM)正在增加新技术方面的支出，以应对来自硅谷的新威胁。</P>
+<P>摩根大通将调整预算，分配更多资金用于应用程序研发和金融技术合作，将网络安全开支增加20%，并在客户身上测试对比特币提供了支持的那一电子记账系统。比特币是一种数字虚拟货币。</P>
+<P>上述举措是为了应对来自在线贷款机构及支付公司不断增长的威胁，也是摩根大通罕见的增加开支的举措。整体而言，摩根大通目前正在削减成本、裁减员工、收缩资产，以适应利润率变薄以及监管更加严厉的大环境。</P>
+<P>预计摩根大通高管将在周二的投资者日上讨论上述举措。目前，围绕全球经济增长、能源行业受创及持续低利率的担忧已经打击了银行类股。2016年截至上周五，摩根大通股价已累计下跌12%，为2009年以来最差的开年表现。该股周一涨1.4%，至58.61美元。</P>
+<P>增加技术支出不一定会改变这种状况，但或许能帮助该行抵御那些希望挖走该行客户的新兴企业。摩根大通首席执行长戴蒙(James Dimon)在去年致股东的信中警告称，硅谷数百家初创企业正在投入大量人力和资金开发各种传统银行业替代产品。</P>
+<P>Autonomous Research的分析师称，到2020年，在线消费者贷款规模可能达到1,000亿美元，大约占到了美国市场10%的份额。</P>
+<P>摩根大通首席运营长赞姆斯(Matt Zames)称，摩根大通计划将技术支出从约92亿美元增至约94亿美元，同时将新投资和技术方面的预算比例从目前的30%提高至40%左右。</P>
+<P>技术支出将包括新兴企业合作方面的投入。摩根大通去年与在线小企业贷款公司On Deck Capital Inc.合作，并将寻求在今年4月份启动的一个新项目下展开其他类似合作。</P>
+<P>赞姆斯表示，该行正在压缩已有的技术成本，包括减少技术部门员工办公点的数量，试用价格相对较低的服务器，减少遗留应用程序以及技术服务提供商的数量。</P>
+<P>摩根大通企业与投行业务负责人平托(Daniel Pinto)表示，该行还计划今年晚些时候对一个方案进行测试，该方案利用了一项支持比特币的技术，为2,200位客户在伦敦与东京之间调动美元资金。该行想看看这项名为“区块链”(blockchain)的技术能否用于货币清算和结算，进而加快客户的资金周转时间并降低该行的风险。</P>
+<P>摩根大通企业与投行业务首席行政长维斯瓦纳坦(Sanoke Viswanathan)称，该行计划在今年第三季度对包括一些对冲基金在内的特定企业和投行客户进行测试。方案若正式投入使用将需要获得监管部门的批准，可能需要数月时间。</P>
+<P>瑞士信贷集团(Credit Suisse Group AG, CSGN.VX)的银行业分析师凯泽克(Susan Katzke)表示，虽然每家银行对技术的定义多少有些不同，但美国银行(Bank of America Co., BAC)去年在技术和运营方面投入了150亿美元，花旗集团(Citigroup Inc., C)在技术与电信方面投入了65亿-70亿美元。</P>
+<P>摩根大通技术部门的4万名员工约占该行员工总数的17%，该部门由全球首席信息长迪西( Dana Deasy)负责。知情人士表示，该行技术开发人员的数量已增长约10%，达到约1.85万人。</P>
+</div>
+<P><FONT color=#666666>本文版权归道琼斯公司所有，未经许可不得翻译或转载。</FONT></P>
+<div class="pagebreak">
+</div>
+
+ </div>
+  </div>
+  
+</div>
+
+<div id="content_right">
+<div class=right_title>相关文章列表
+</div>
+<div id="list">
+<ul><a class='LinkArticleCorrelative' href='/wsj/17004.htm' title='文章标题：中国商务部长：出口争端反映中国贸易领先地位
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-23 19:27:14' target="_self">中国商务部长：出口争端反映中国贸易领先地位</a><br><a class='LinkArticleCorrelative' href='/wsj/17002.htm' title='文章标题：黄金和原油走势为何背道而驰？
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-23 19:24:51' target="_self">黄金和原油走势为何背道而驰？</a><br><a class='LinkArticleCorrelative' href='/wsj/16992.htm' title='文章标题：全球股市重拾涨势&nbsp;受大宗商品价格和中国市场走势提振
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-23 10:01:41' target="_self">全球股市重拾涨势&nbsp;受大宗商品价格和中国市场走势…</a><br><a class='LinkArticleCorrelative' href='/wsj/16991.htm' title='文章标题：英镑下挫幅度超出苏格兰独立公投前跌幅
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-23 10:00:57' target="_self">英镑下挫幅度超出苏格兰独立公投前跌幅</a><br><a class='LinkArticleCorrelative' href='/wsj/16990.htm' title='文章标题：伦敦市长力挺“脱欧”&nbsp;英镑逼近七年低点
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-23 10:00:23' target="_self">伦敦市长力挺“脱欧”&nbsp;英镑逼近七年低点</a><br><a class='LinkArticleCorrelative' href='/wsj/16989.htm' title='文章标题：国际能源署预计全球石油市场明年开始恢复平衡
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-23 9:59:43' target="_self">国际能源署预计全球石油市场明年开始恢复平衡</a><br><a class='LinkArticleCorrelative' href='/wsj/16988.htm' title='文章标题：国际能源署：原油过剩状况还要持续多年
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-23 9:59:03' target="_self">国际能源署：原油过剩状况还要持续多年</a><br><a class='LinkArticleCorrelative' href='/wsj/16982.htm' title='文章标题：玩具反斗城将成为垃圾债市场的测试案例
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-22 18:51:17' target="_self">玩具反斗城将成为垃圾债市场的测试案例</a><br><a class='LinkArticleCorrelative' href='/wsj/16981.htm' title='文章标题：日本央行行长为负利率政策辩护
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-22 18:50:14' target="_self">日本央行行长为负利率政策辩护</a><br><a class='LinkArticleCorrelative' href='/wsj/16979.htm' title='文章标题：Fitbit股价或许还未触底
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-22 18:48:05' target="_self">Fitbit股价或许还未触底</a><br></ul>
+</div>
+</div>
+
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+<div class="bd1"><script type="text/javascript">
+/*自定义标签云，创建于2014-2-10*/
+var cpro_id = "u1466768";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+
+</div>
+<div class="clearing"></div>
+<div id="footer">
+</div>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=1&amp;pos=right&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="count"><script src="http://s4.cnzz.com/stat.php?id=5427419&web_id=5427419&show=pic1" language="JavaScript"></script></div>
+
+</body></html>

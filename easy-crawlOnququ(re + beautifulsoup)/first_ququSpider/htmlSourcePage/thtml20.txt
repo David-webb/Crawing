@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>赶走恶俗网络广告的免费插件（英文）_纽约时报中英文版_纽约时报中英文网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="keywords" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times，双语新闻"  />
+<meta name="description" content="纽约时报中英文网,纽约时报中英对照,纽约时报中英文版,New York Times，双语新闻"  />
+<link rel="stylesheet" type="text/css" href="/skin/qqenglish/style.css" />
+</head>
+
+<body  oncontextmenu='return false' ondragstart='return false' onselectstart ='return false' onselect='document.selection.empty()' oncopy='document.selection.empty()' onbeforecopy='return false' onmouseup='document.selection.empty()'>
+<div id="top">
+<div id="logo"><a href="/"><img src="/skin/qqenglish/logo1.gif" alt="纽约时报中英文网" width="691" height="63"></a></div> 
+<div id="menu"><ul>
+  <li><a href="/">纽约时报中文网</a></li>
+  <li><a href="/bn/bn">国际</a></li>
+  <li><a href="/bn/business">商业</a></li>
+  <li><a href="/bn/technology">科技</a></li>
+  <li><a href="/bn/education">教育</a></li>
+  <li><a href="/bn/culture">文化</a></li>
+  <li><a href="/bn/style">风尚</a></li>
+  <li><a href="/bn/health">健康</a></li>
+  <li><a href="/bn/science">科学</a></li>
+  <li><a href="/bn/travel">旅游</a></li>
+  <li><a href="/bn/opinion">观点</a></li>
+</ul></div>
+</div>
+
+<div id="position">您现在的位置：&nbsp;<a class='LinkPath' href='http://www.qqenglish.com'>纽约时报中英文网</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/Index.htm'>纽约时报中英文版</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/bn/technology/Index.htm'>科技</a>&nbsp;>>&nbsp;正文
+</div>
+
+<div id="Container">
+<div id="content_left">
+<div id="leftMainContainer">
+
+<div>
+<div id="leftN_title" style="word-break:break-all">
+<H2>赶走恶俗网络广告的免费插件（英文）</H2>
+<div class="times">更新时间:2016-2-22 18:33:19&nbsp;来源:<A href="http://cn.nytimes.com/" target=_blank><FONT color=#666666>纽约时报中文网</FONT></A> 作者:佚名 
+</div>
+</div>
+
+<div class="content">
+<p></p>
+<div class="bd2"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<P>摘要：广告商把追踪器安插在顾客浏览的网页上已经不再是新鲜事。追踪器锁定顾客的偏好，使他们在浏览网页或观看视频时，弹出来的广告具有令人尴尬的指向性。一些插件可以对广告进行拦截，比如Ghostery、Disconnect、RedMorph、Privacy Badger。《纽约时报》对它们进行了测评。</P>
+<P>SAY you’re doing a web search on something like the flu. The next thing you know, an ad for a flu remedy pops up on your web browser, or your video streaming service starts playing a commercial for Tylenol.</P>
+<P>The content of those ads is no coincidence. Digital ads are able to follow people around the Internet because advertisers often place invisible trackers on the websites you visit. Their goal is to collect details on everywhere you go on the Internet and use that data to serve targeted ads to your computer, smartphone and connected television.</P>
+<P>This global commercial surveillance of consumers is poised to become more extensive as tech companies expand into the Internet of Things, a category that includes wearable computers and connected home appliances like smart thermostats and refrigerators. Amazon, eBay, Facebook and Google can already follow users from device to device because people log in to their services with the same IDs on various gadgets.</P>
+<P>For other marketing companies, tracking people on multiple Internet-connected devices has become a holy grail. The process is complex, because some lack the direct relationship with people that the giant tech companies already have. Only about 6 percent of marketers can reliably track a customer on all of that customer’s devices, according to the research firm eMarketer. But advertisers are working toward the goal.</P>
+<P>“Our privacy is completely under assault with all these connected devices,” said Jeremiah Grossman, the founder of WhiteHat Security, a web security firm.</P>
+<P>So what better time to get a head start on defending yourself against web snoops (as if email trackers, which this column covered last year, weren’t annoying enough already)? Many companies offer tools to help obscure your digital footprints while you’re browsing the web. We researched and tested four tracker blockers and found their results varied widely. In the end, the app Disconnect became our anti-tracking tool of choice.</P>
+<P>Here’s how web tracking works: In general, targeting individuals with digital ads involves a sophisticated ecosystem of third parties ― like online advertising networks, data brokers and analytics companies ― that compile information on consumers.</P>
+<P>When you visit websites, these companies typically pick out your browser or phone using technologies like cookies, which contain unique alphanumeric identification tags that can enable trackers to identify your activities as you move from site to site. To sell ads delivered to certain categories of consumers, like suburban singles looking for romance, companies may sync these ID tags to pinpoint individuals.</P>
+<P>The downside is, your browsing history may contain sensitive information about your health concerns, political affiliations, family problems, religious beliefs or sexual habits.</P>
+<P>“More than just being creepy, it’s a huge violation of privacy,” said Cooper Quintin, a privacy advocate for the Electronic Frontier Foundation, a digital rights nonprofit that also offers the anti-tracking tool Privacy Badger. “People need to be able to read things and do things and talk about things without having to worry that they’re being watched or recorded somewhere.”</P>
+<P>We took a close look at four free privacy tools: Ghostery, Disconnect, RedMorph and Privacy Badger. We tested them with the Google Chrome browser on the top 20 news websites, including Yahoo News, CNN, The Huffington Post and The New York Times.</P>
+<P>The tracker busters generally work in similar ways. You download and install an add-on for a web browser like Chrome or Mozilla Firefox. The anti-tracking companies each compile a list of known web domains that serve trackers or show patterns of tracking services. Then when someone connects to a website, the tools prevent the browser from loading any element that matches their blacklist.</P>
+<P>&nbsp;Ghostery, a popular tracker blocker, was the most difficult to set up. When you install it, it asks you to manually select the trackers you want to block. Our problem with that approach is that there are hundreds of trackers, and most consumers probably won’t recognize most of them, putting the onus on users to research which specific services they might wish to block.</P>
+<P>Scott Meyer, the chief executive of Ghostery, said this had been a deliberate design choice. When trackers are blocked, parts of websites may not function, so it is less confusing to let users experiment and decide which ones to block on their own, he said.</P>
+<P>“We block nothing by default,” he said. “That’s in direct contrast to other companies who are saying, ‘We’re turning everything off and let you turn whatever you want back on.’ That’s way too complex for users.”</P>
+<P>The tracker blocking tool RedMorph takes the opposite approach. It blocks every tracking signal it can detect and lets people decide which ones to allow. For parents concerned about their children’s Internet use, RedMorph also offers a service to filter out certain sites or block certain swear words or other language they find inappropriate.</P>
+<P>“When you go home, you lock the door and you may pull down the shades at night,” said Abhay Edlabadkar, the chief executive of RedMorph. “You should have the same level of privacy control over your Internet activities.”</P>
+<P>In our tests, RedMorph was the most thorough with blocking trackers. It blocked 22 of them on USAToday.com, whereas Privacy Badger blocked seven, Disconnect blocked eight and Ghostery detected eight.</P>
+<P>But in the process, RedMorph caused the most collateral damage. It blocked some videos on the websites for CNN, USA Today, Bleacher Report, The New York Times and The Daily News. It also broke the recommended reading list on Business Insider and a Twitter box on BuzzFeed. For people who run into issues loading websites, the company offers an “Easy Fix” button to stop blocking a website’s trackers, but that’s hardly an ideal solution when it causes so many websites to malfunction. Mr. Edlabadkar of RedMorph said the tool was blocking some videos or recommended reading lists because they were loading only after a tracker had been loaded first.</P>
+<P>That leaves Privacy Badger and Disconnect. Privacy Badger detects third-party domains that users are connecting with when they’re loading a website and blocks those domains only if they are determined to be tracking you. Its widget shows sliding bars of trackers it has detected. The ones in red are blocked and the green ones are allowed.</P>
+<P>Disconnect takes a similarly nuanced approach. The company said some tracking was fair and necessary for a website to work properly ― for example, if a site like The New York Times is using analytics to collect information about readers, as it describes in its privacy policy. However, Disconnect will block trackers from third parties that are collecting, retaining or sharing user data. On its website, it publishes lists of trackers it blocks and those it allows, along with explanations of its policy.</P>
+<P>“We really focus on privacy rather than blocking ads that are done in a respectful way,” said Casey Oppenheim, the chief executive of Disconnect. “It’s important we have the ability for publishers to survive and make money. I think there’s a middle ground.”</P>
+<P>In the end, we picked Disconnect as our favorite tool because it was the easiest to understand. It organizes the types of tracking requests it is blocking into different categories: advertising, analytics, social media and content.</P>
+<P>Mr. Grossman of WhiteHat Security also tested tracking blockers and chose Disconnect for similar reasons. He breaks his online activities into two separate web browsers to make himself more difficult to track: On one browser, he does everyday tasks like reading news articles; on the other browser he logs into accounts that are linked to his personal identity, like online banking sites and Amazon.</P>
+<P>But Mr. Grossman said that in the broad arms race between consumers and advertisers, the advertisers always find some way to outmaneuver us.</P>
+<P>“We’re talking megabillion-dollar industries totally designed to track you online,” he said. “That’s their mission in life.”</P>
+</div>
+<P><FONT color=#666666>“全文请访问<A title="" href="http://cn.nytimes.com/" target=_blank><FONT color=#666666>纽约时报中文网</FONT></A>，本文发表于纽约时报中文网（http://cn.nytimes.com），版权归纽约时报公司所有。任何单位及个人未经许可，不得擅自转载或翻译。订阅纽约时报中文网新闻电邮：http://nytcn.me/subscription/”</FONT></P>
+<div class="pagebreak">
+</div>
+
+ </div>
+  </div>
+  
+</div>
+
+<div id="content_right">
+<div class=right_title>相关文章列表
+</div>
+<div id="list">
+<ul><a class='LinkArticleCorrelative' href='/bn/16928.htm' title='文章标题：苹果的启示：胜利终将属于科技公司
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-19 8:12:53' target="_self">苹果的启示：胜利终将属于科技公司</a><br><a class='LinkArticleCorrelative' href='/bn/16907.htm' title='文章标题：苹果拒绝破解加州枪案袭击者手机
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-18 22:56:53' target="_self">苹果拒绝破解加州枪案袭击者手机</a><br><a class='LinkArticleCorrelative' href='/bn/16789.htm' title='文章标题：WhatsApp计划取消收费
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-9 10:17:54' target="_self">WhatsApp计划取消收费</a><br><a class='LinkArticleCorrelative' href='/bn/16747.htm' title='文章标题：承包商还是雇员？优步司机争取权益
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-5 10:37:53' target="_self">承包商还是雇员？优步司机争取权益</a><br><a class='LinkArticleCorrelative' href='/bn/16715.htm' title='文章标题：雅虎将裁员15%，重新考虑出售核心资产
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-4 10:43:00' target="_self">雅虎将裁员15%，重新考虑出售核心资产</a><br><a class='LinkArticleCorrelative' href='/bn/16681.htm' title='文章标题：谁说没有两片一模一样的雪花！
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-2-3 9:57:59' target="_self">谁说没有两片一模一样的雪花！</a><br><a class='LinkArticleCorrelative' href='/bn/16561.htm' title='文章标题：人类又输给了AI，这次是围棋（英文）
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-28 17:40:08' target="_self">人类又输给了AI，这次是围棋（英文）</a><br><a class='LinkArticleCorrelative' href='/bn/16560.htm' title='文章标题：移动广告业务抢眼，Facebook营收飙升
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-28 17:39:10' target="_self">移动广告业务抢眼，Facebook营收飙升</a><br><a class='LinkArticleCorrelative' href='/bn/16536.htm' title='文章标题：iPhone销量增速创新低，苹果告别高速增长时代
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-27 18:46:52' target="_self">iPhone销量增速创新低，苹果告别高速增长时代</a><br><a class='LinkArticleCorrelative' href='/bn/16480.htm' title='文章标题：苹果突飞猛进式的增长已经告终？
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-1-26 10:17:24' target="_self">苹果突飞猛进式的增长已经告终？</a><br></ul>
+</div>
+</div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+<div class="gg1"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-1605215814602953";
+/* 336280 */
+google_ad_slot = "5153049927";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+<div class="bd1"><script type="text/javascript">
+/*自定义标签云，创建于2014-2-10*/
+var cpro_id = "u1466768";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+<div class="bd1"><script type="text/javascript">
+/*336*280，创建于2014-2-8*/
+var cpro_id = "u1466067";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+
+</div>
+<div class="clearing"></div>
+<div id="footer">
+</div>
+<!-- Baidu Button BEGIN -->
+<script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=1&amp;pos=right&amp;uid=0" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);
+</script>
+<!-- Baidu Button END -->
+<div id="count"><script src="http://s4.cnzz.com/stat.php?id=5427419&web_id=5427419&show=pic1" language="JavaScript"></script></div>
+
+</body></html>
