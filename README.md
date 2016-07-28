@@ -30,16 +30,15 @@
 
 1. 菜单表(MenuItems)
 
-	sql1 = '''
-   	    create table MenuItems(
-            	MID int,
-            	menuName varchar(100) primary key not null,
-            	mainPageUrl varchar(200) not null,
-            	nextPageUrl varchar(200),	
-            	state int default 0
-            	)auto_increment = 1;
+		sql1 = '''
+		   create table MenuItems(
+            		MID int,
+            		menuName varchar(100) primary key not null,
+            		mainPageUrl varchar(200) not null,
+            		nextPageUrl varchar(200),	
+            		state int default 0
+            	   )auto_increment = 1;
 		'''
-        
         
 2. 文章表(PaperInfo)
 
