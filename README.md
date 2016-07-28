@@ -27,6 +27,7 @@
 + 文章内容的存储：PID(PID从文章url中提取)：title: 中文：英文：原文：Purl：Type（menu菜单项）: paperDate
 
 ### 数据库设计（mysql）
+
 1. 菜单表(MenuItems):
 
 	sql = '''
@@ -39,7 +40,7 @@
             )auto_increment = 1;
         '''
         
-2. 文章表(PaperInfo)
+2. 文章表(PaperInfo):
 
     	sql2 = '''
      	    create table PaperInfo(
