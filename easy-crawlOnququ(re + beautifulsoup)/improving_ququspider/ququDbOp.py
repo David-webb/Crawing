@@ -125,7 +125,7 @@ class QuquMysqlOps():
 
 
 if __name__ == '__main__':
-    testObj = QuquMysqlOps('localhost', 'root', 'tw2016941017', 'ququDB')
+    testObj = QuquMysqlOps('localhost', 'root', 'xxx', 'ququDB') # 这里的密码被我删了, 用xxx代替
     # 创建表格
     # testObj.createTables()
 

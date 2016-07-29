@@ -19,7 +19,7 @@ ququSpiderwithBS类：
 class ququSpiderwithBS():
     def __init__(self):
         self.basicUrl = 'http://www/qqenglish.com'
-        self.dbObj = QuquMysqlOps('localhost', 'root', 'tw2016941017', 'ququDB')
+        self.dbObj = QuquMysqlOps('localhost', 'root', 'xxx', 'ququDB') # 这里的密码被我删了， 用xxx代替
         pass
 
     # 获得蛐蛐英文网首页的菜单url

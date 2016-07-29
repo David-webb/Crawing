@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 class daliyUpdate():
     def __init__(self):
-        self.td = QuquMysqlOps('localhost', 'root', 'tw2016941017', 'ququDB')
+        self.td = QuquMysqlOps('localhost', 'root', 'xxx', 'ququDB') # 这里的密码被我删了，用xxx代替
         self.qSpider = ququSpiderwithBS()
         pass
 
